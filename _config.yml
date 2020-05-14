@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   de la aplicaciones desarrolladas. Finalmente, en el curso se manejan conceptos 
   independientes de la plataforma web utilizada, por lo que facilita el aprendizaje 
   autónomo de nuevas tecnologías y entornos de trabajo.
-baseurl: "/DAWM"
+baseurl: "DAWM"
 url: "https://dawfiec.github.io/"
 
 include:
