@@ -6,12 +6,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: WMAD
+title: DAWM
 email: aavendan@espol.edu.ec
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Este curso provee a los estudiantes del conocimiento y de la experiencia práctica 
+  para diseñar e implementar aplicaciones web y móviles cumpliendo con los estándares 
+  actuales y las buenas prácticas de programación que faciliten su mantenibilidad, 
+  escalabilidad y adaptabilidad. En el curso se diseñan y modelan aplicaciones que 
+  realizan requerimientos web asincrónicos entre el cliente y el servidor para mejorar 
+  la experiencia de usuario. Además, se utiliza el patrón de diseño de arquitectura 
+  modelo-vista-controlador en la programación en el servidor y en el cliente para separar 
+  la lógica del negocio de la interfaz de usuario, permitiendo un fácil mantenimiento 
+  de la aplicaciones desarrolladas. Finalmente, en el curso se manejan conceptos 
+  independientes de la plataforma web utilizada, por lo que facilita el aprendizaje 
+  autónomo de nuevas tecnologías y entornos de trabajo.
 baseurl: "/WMAD"
 url: "https://dawfiec.github.io/"
 
