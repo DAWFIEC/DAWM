@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Home"
+title: "Desarrollo de Aplicaciones Web y Móviles"
 layout: homelay
 excerpt: "Allan Lab at Leiden University."
 sitemap: false
