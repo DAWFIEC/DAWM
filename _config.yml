@@ -11,7 +11,7 @@ email: aavendan@espol.edu.com
 description: > # this means to ignore newlines until "baseurl:"
   WMAD website.
 baseurl: "/WMAD"
-url: "/WMAD"
+url: "https://dawfiec.github.io/WMAD/"
 
 include:
   - .htaccess
