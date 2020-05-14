@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - AOA"
+title: "DAWM at ESPOL - AOA"
 layout: textlay
-excerpt: "AOA"
+excerpt: "DAWM at ESPOL"
 sitemap: false
 permalink: /aoa.html
 ---
