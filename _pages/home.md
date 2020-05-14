@@ -1,7 +1,7 @@
 ---
 title: "Desarrollo de Aplicaciones Web y Móviles"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Desarrollo de Aplicaciones Web y Móviles at ESPOL"
 sitemap: false
 permalink: /
 ---
