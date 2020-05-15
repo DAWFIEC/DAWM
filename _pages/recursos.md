@@ -16,9 +16,9 @@ permalink: /recursos
         - [Repositorio](https://github.com/jquintanas/api-rest)
         - [Tutorial](contenidos/tutoriales/REST.pdf)
       - GraphQL
-        - [GraphQL](https://github.com/jquintanas/graphql-DAW)
+        - [Repositorio](https://github.com/jquintanas/graphql-DAW)
         - [Tutorial](contenidos/tutoriales/GraphQL.pdf)
-    - [Emilio Morán](https://github.com/emiliomoran)
+   - [Emilio Morán](https://github.com/emiliomoran)
       - Django
         - [Repositorio](https://github.com/emiliomoran/Django_DAW_2S_2019)
         - [Tutorial](contenidos/tutoriales/Django.pdf)
