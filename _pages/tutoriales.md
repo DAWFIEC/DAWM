@@ -13,8 +13,8 @@ permalink: /tutoriales
 <div class="row">
  <div class="col-sm-6 clearfix">
   <div class="well">
-   <pubtit>{{ publi.title }}</pubtit>
-   <iframe width="560" height="315" src="{{ publi.link.url }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <p><pubtit>{{ publi.title }}</pubtit></p>
+   <p><iframe width="auto" height="315" src="{{ publi.link.url }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
    <p><em>{{ publi.authors }}</em></p>
    <p> {{ publi.description }}</p>
  </div>
