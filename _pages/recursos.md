@@ -10,6 +10,19 @@ permalink: /recursos
 
 - [Programming Notes for Professionals books](contenidos/libros). Free Programming Books; HTML5, CSS3, JavaScript, PHP, Python.... (2020). Goalkicker.com. Retrieved 13 May 2020, from https://goalkicker.com/
 
+## Repositorios
+   - [Jonathan Quintana](https://github.com/jquintanas?tab=repositories)
+      - API REST
+        - [Repositorio](https://github.com/jquintanas/api-rest)
+        - [Tutorial](contenidos/tutoriales/REST.pdf)
+      - GraphQL
+        - [GraphQL](https://github.com/jquintanas/graphql-DAW)
+        - [Tutorial](contenidos/tutoriales/GraphQL.pdf)
+    - [Emilio Morán](https://github.com/emiliomoran)
+      - Django
+        - [Repositorio](https://github.com/emiliomoran/Django_DAW_2S_2019)
+        - [Tutorial](contenidos/tutoriales/Django.pdf)
+
 ## Íconos
   - 'Black White Social Media' by youtube.com/AlfredoCreates. (2018). Iconfinder. Retrieved 3 October 2018, from https://www.iconfinder.com/iconsets/black-white-social-media
   - Streamline 3.0. (2019). App.streamlineicons.com. Retrieved 7 June 2019, from https://app.streamlineicons.com/streamline-regular/interface-essential
