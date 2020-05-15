@@ -11,6 +11,7 @@ Este curso provee a los estudiantes del conocimiento y de la experiencia prácti
 </p>
 
 # Enlaces
+
 * [Sitio Web](https://dawfiec.github.io/DAWM/)
 * [Repositorio](https://github.com/DAWFIEC/DAWM/)
 * [Diccionario de términos](https://espolec-my.sharepoint.com/:x:/g/personal/aavendan_espol_edu_ec/EfRGuJNBvv1GiaWKHqJS8BgB8cs4bZryR5ehtuAmiolUlw?e=V4enRM)
@@ -28,12 +29,12 @@ Este curso provee a los estudiantes del conocimiento y de la experiencia prácti
     - Django
       - [Repositorio](https://github.com/emiliomoran/Django_DAW_2S_2019)
       - [Tutorial](tutoriales/Django.pdf)
- # Generalidades
+# Generalidades
 
 - [Tim Berners-Lee en TEDx](https://www.ted.com/speakers/tim_berners_lee) Tres charlas magistrales del creador de la web.
 - [¿Cómo funciona la Web?](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/C%C3%B3mo_funciona_la_Web). Aquí exploran el modelo cliente-servidor, otros elementos importantes para crear el internet, el proceso de peticiones desde un cliente a un servidor y el uso de DNS.
 
-## Indicaciones generales
+# Indicaciones generales
 
 Existen algunos sitios especializados, como [A List Apart](https://alistapart.com/), [Mozilla Developer Network](https://developer.mozilla.org/es/), [CSS-Tricks](https://css-tricks.com/), [HTML5Doctor](http://html5doctor.com/), [HTML.com](https://html.com/), [W3Schools](https://www.w3schools.com/tags/default.asp), [Codepen](https://codepen.io/) y [Google Developers](https://developers.google.com/web/?hl=es) dado que tienen publicaciones interesantes, relacionadas con el desarrollo de aplicaciones web. 
 
@@ -52,7 +53,7 @@ Mientras diseñas tu sitio web, puedes utilizar los inspectores de [Mozilla](htt
 Cuando tengas listo tu sitio web estático o tu aplicación web dinámica será necesario utilizar un servidor web. Mediante la extensión [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) para Google Chrome es posible lanzar un servidor local para sitios web estáticos. Si requieres de un PAAS para poner en producción tu aplicación web, existen opciones como [Firebase](https://firebase.google.com/docs/hosting/quickstart?authuser=1) o [Heroku](https://www.heroku.com/).
  
 
-## Recursos para tus sitios web
+# Recursos para tus sitios web
 
 - Íconos
   - 'Black White Social Media' by youtube.com/AlfredoCreates. (2018). Iconfinder. Retrieved 3 October 2018, from https://www.iconfinder.com/iconsets/black-white-social-media
@@ -61,11 +62,11 @@ Cuando tengas listo tu sitio web estático o tu aplicación web dinámica será 
 - Fuentes
   - 20 Best Google Web Fonts. (2018). Awwwards.com. Retrieved 3 October 2018, from https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html
 
-## Libro gratuitos
+# Libro gratuitos
 
 - [Programming Notes for Professionals books](libros). Free Programming Books; HTML5, CSS3, JavaScript, PHP, Python.... (2020). Goalkicker.com. Retrieved 13 May 2020, from https://goalkicker.com/
 
-## Formato básico para la sintaxis de un README en github
+# Formato básico para la sintaxis de un README en github
 
 Basic writing and formatting syntax - User Documentation. (2018). 
 Help.github.com. Retrieved 25 September 2018, 
