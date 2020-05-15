@@ -10,6 +10,25 @@ permalink: /
 Este curso provee a los estudiantes del conocimiento y de la experiencia práctica para diseñar e implementar aplicaciones web y móviles cumpliendo con los estándares actuales y las buenas prácticas de programación que faciliten su mantenibilidad, escalabilidad y adaptabilidad. En el curso se diseñan y modelan aplicaciones que realizan requerimientos web asincrónicos entre el cliente y el servidor para mejorar la experiencia de usuario. Además, se utiliza el patrón de diseño de arquitectura modelo-vista-controlador en la programación en el servidor y en el cliente para separar la lógica del negocio de la interfaz de usuario, permitiendo un fácil mantenimiento de la aplicaciones desarrolladas. Finalmente, en el curso se manejan conceptos independientes de la plataforma web utilizada, por lo que facilita el aprendizaje autónomo de nuevas tecnologías y entornos de trabajo.
 </p>
 
+# Enlaces
+* [Sitio Web](https://dawfiec.github.io/DAWM/)
+* [Repositorio](https://github.com/DAWFIEC/DAWM/)
+* [Diccionario de términos](https://espolec-my.sharepoint.com/:x:/g/personal/aavendan_espol_edu_ec/EfRGuJNBvv1GiaWKHqJS8BgB8cs4bZryR5ehtuAmiolUlw?e=V4enRM)
+* Ideas
+  - [The Global Hack](https://theglobalhack.devpost.com/submissions/search?utf8=%E2%9C%93)
+* Repositorios
+  - [Jonathan Quintana](https://github.com/jquintanas?tab=repositories)
+    - API REST
+      - [Repositorio](https://github.com/jquintanas/api-rest)
+      - [Tutorial](tutoriales/REST.pdf)
+    - GraphQL
+      - [GraphQL](https://github.com/jquintanas/graphql-DAW)
+      - [Tutorial](tutoriales/GraphQL.pdf)
+  - [Emilio Morán](https://github.com/emiliomoran)
+    - Django
+      - [Repositorio](https://github.com/emiliomoran/Django_DAW_2S_2019)
+      - [Tutorial](tutoriales/Django.pdf)
+
 <!--
 We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
 -->
