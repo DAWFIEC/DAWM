@@ -5,8 +5,8 @@ excerpt: "Fotos"
 permalink: /fotos
 ---
 
-## Fots
-(Right-click *'view image'* to see a larger image.)
+## Fotos
+(Click derecho y *'Abrir imagen en una nueva pestaña'* para ver la imagen más grande.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
