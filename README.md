@@ -1,11 +1,3 @@
-# Allan Lab Website
+# Desarrollo de Aplicaciones Web y Móviles 
 
-This is the website of our academic research group at Leiden University.
-
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
-
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
-
-
-Copyright Allan Lab. Code released under the MIT License.
-
+Este curso provee a los estudiantes del conocimiento y de la experiencia práctica para diseñar e implementar aplicaciones web y móviles cumpliendo con los estándares actuales y las buenas prácticas de programación que faciliten su mantenibilidad, escalabilidad y adaptabilidad. En el curso se diseñan y modelan aplicaciones que realizan requerimientos web asincrónicos entre el cliente y el servidor para mejorar la experiencia de usuario. Además, se utiliza el patrón de diseño de arquitectura modelo-vista-controlador en la programación en el servidor y en el cliente para separar la lógica del negocio de la interfaz de usuario, permitiendo un fácil mantenimiento de la aplicaciones desarrolladas. Finalmente, en el curso se manejan conceptos independientes de la plataforma web utilizada, por lo que facilita el aprendizaje autónomo de nuevas tecnologías y entornos de trabajo.
