@@ -29,6 +29,7 @@ Este curso provee a los estudiantes del conocimiento y de la experiencia prácti
     - Django
       - [Repositorio](https://github.com/emiliomoran/Django_DAW_2S_2019)
       - [Tutorial](tutoriales/Django.pdf)
+
 # Generalidades
 
 - [Tim Berners-Lee en TEDx](https://www.ted.com/speakers/tim_berners_lee) Tres charlas magistrales del creador de la web.
@@ -51,20 +52,10 @@ En cuanto a librerías y frameworks del lado del cliente, podemos encontrar a [W
 Mientras diseñas tu sitio web, puedes utilizar los inspectores de [Mozilla](https://developer.mozilla.org/es/docs/Tools/Page_Inspector) o [Chrome](https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2018Q2) para verificar la estructura semántica de las páginas. Y algunos cheatsheets de HTML/CSS/GIT en la carpeta [Recursos](Recursos), [Google Web Fonts](https://devhints.io/google-webfonts) y [Bootstrap](https://hackerthemes.com/bootstrap-cheatsheet/).
 
 Cuando tengas listo tu sitio web estático o tu aplicación web dinámica será necesario utilizar un servidor web. Mediante la extensión [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) para Google Chrome es posible lanzar un servidor local para sitios web estáticos. Si requieres de un PAAS para poner en producción tu aplicación web, existen opciones como [Firebase](https://firebase.google.com/docs/hosting/quickstart?authuser=1) o [Heroku](https://www.heroku.com/).
- 
-
-# Recursos para tus sitios web
-
-- Íconos
-  - 'Black White Social Media' by youtube.com/AlfredoCreates. (2018). Iconfinder. Retrieved 3 October 2018, from https://www.iconfinder.com/iconsets/black-white-social-media
-  - Streamline 3.0. (2019). App.streamlineicons.com. Retrieved 7 June 2019, from https://app.streamlineicons.com/streamline-regular/interface-essential
-  - Material Icons. (2020). Material Design. Retrieved 13 May 2020, from https://material.io/resources/icons/?style=baseline
-- Fuentes
-  - 20 Best Google Web Fonts. (2018). Awwwards.com. Retrieved 3 October 2018, from https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html
 
 # Libro gratuitos
 
-- [Programming Notes for Professionals books](libros). Free Programming Books; HTML5, CSS3, JavaScript, PHP, Python.... (2020). Goalkicker.com. Retrieved 13 May 2020, from https://goalkicker.com/
+- [Programming Notes for Professionals books](contenidos/libros). Free Programming Books; HTML5, CSS3, JavaScript, PHP, Python.... (2020). Goalkicker.com. Retrieved 13 May 2020, from https://goalkicker.com/
 
 # Formato básico para la sintaxis de un README en github
 
