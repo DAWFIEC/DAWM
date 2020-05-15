@@ -17,22 +17,10 @@ Este curso provee a los estudiantes del conocimiento y de la experiencia prácti
 * [Diccionario de términos](https://espolec-my.sharepoint.com/:x:/g/personal/aavendan_espol_edu_ec/EfRGuJNBvv1GiaWKHqJS8BgB8cs4bZryR5ehtuAmiolUlw?e=V4enRM)
 * Ideas
   - [The Global Hack](https://theglobalhack.devpost.com/submissions/search?utf8=%E2%9C%93)
-* Repositorios
-  - [Jonathan Quintana](https://github.com/jquintanas?tab=repositories)
-    - API REST
-      - [Repositorio](https://github.com/jquintanas/api-rest)
-      - [Tutorial](tutoriales/REST.pdf)
-    - GraphQL
-      - [GraphQL](https://github.com/jquintanas/graphql-DAW)
-      - [Tutorial](tutoriales/GraphQL.pdf)
-  - [Emilio Morán](https://github.com/emiliomoran)
-    - Django
-      - [Repositorio](https://github.com/emiliomoran/Django_DAW_2S_2019)
-      - [Tutorial](tutoriales/Django.pdf)
 
 ## Generalidades
 
-- [Tim Berners-Lee en TEDx](https://www.ted.com/speakers/tim_berners_lee) Tres charlas magistrales del creador de la web.
+- [Tim Berners-Lee en TEDx](https://www.ted.com/speakers/tim_berners_lee). Tres charlas magistrales del creador de la web.
 - [¿Cómo funciona la Web?](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/C%C3%B3mo_funciona_la_Web). Aquí exploran el modelo cliente-servidor, otros elementos importantes para crear el internet, el proceso de peticiones desde un cliente a un servidor y el uso de DNS.
 
 ## Indicaciones generales
