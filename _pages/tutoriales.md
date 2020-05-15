@@ -14,8 +14,7 @@ permalink: /tutoriales
  <div class="col-sm-6 clearfix">
   <div class="well">
    <p><pubtit>{{ publi.title }}</pubtit></p>
-   <p> <iframe width="auto" height="315" src="{{ publi.link.url }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
-   
+   <iframe width="auto" height="315" src="{{ publi.link.url }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    <p><em>{{ publi.authors }}</em></p>
    <p> {{ publi.description }}</p>
  </div>
