@@ -2,7 +2,7 @@
 title: "DAWM - ESPOL"
 layout: piclay
 excerpt: "DAWM - ESPOL"
-permalink: /proyectos/
+permalink: /proyectos
 ---
 
 # Pictures
