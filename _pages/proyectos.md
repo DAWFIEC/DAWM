@@ -1,7 +1,7 @@
 ---
-title: "DAWM - ESPOL"
+title: "DAWM - Proyectos"
 layout: piclay
-excerpt: "DAWM - ESPOL"
+excerpt: "Proyectos"
 permalink: /proyectos
 ---
 
