@@ -1,8 +1,8 @@
 ---
-title: "Allan Lab - Pictures"
+title: "DAWM - ESPOL"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
-permalink: /pictures/
+excerpt: "DAWM - ESPOL"
+permalink: /proyectos/
 ---
 
 # Pictures
