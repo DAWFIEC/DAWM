@@ -28,6 +28,10 @@ Este curso provee a los estudiantes del conocimiento y de la experiencia prácti
     - Django
       - [Repositorio](https://github.com/emiliomoran/Django_DAW_2S_2019)
       - [Tutorial](tutoriales/Django.pdf)
+ # Generalidades
+
+- [Tim Berners-Lee en TEDx](https://www.ted.com/speakers/tim_berners_lee) Tres charlas magistrales del creador de la web.
+- [¿Cómo funciona la Web?](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/C%C3%B3mo_funciona_la_Web). Aquí exploran el modelo cliente-servidor, otros elementos importantes para crear el internet, el proceso de peticiones desde un cliente a un servidor y el uso de DNS.
 
 <!--
 We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
