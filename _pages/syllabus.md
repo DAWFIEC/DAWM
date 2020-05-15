@@ -8,4 +8,4 @@ permalink: /syllabus
 
 # Syllabus
 
-<iframe src="{{ site.url }}{{ site.baseurl }}/contenidos/base/syllabus.pdf" height="200" width="300"></iframe>
+<iframe src="{{ site.url }}{{ site.baseurl }}/contenidos/base/syllabus.pdf" height="400" width="100%"></iframe>
