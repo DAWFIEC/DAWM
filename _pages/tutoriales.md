@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Publications"
+title: "DAWM - Tutoriales"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Tutoriales"
 sitemap: false
-permalink: /publications/
+permalink: /tutoriales
 ---
 
 
@@ -50,13 +50,3 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
-
-
-## Full List
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
