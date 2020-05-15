@@ -1,37 +1,75 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "DAWM - Contenidos"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Contenidos"
 sitemap: false
-permalink: /vacancies
+permalink: /contenidos
 ---
 
-# Open positions
+## Unidades
+### 1. Estructura y estilo de un documento web
 
-We are always looking for new group members with passion, talent, and grit!
+- [ ] [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML)
+  - [Básico](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics). Aquí se revisan conceptos como el significado de `lenguaje de marcado`, anatomía de un elemento HTML, atributos, anidación, elementos vacíos, anatomía general de un documento HTML y etiquetas (imágenes, encabezados, párrafos, listas y vínculos).
+  - [Formularios](google.com)
+- [ ] [**CSS**](https://developer.mozilla.org/es/docs/Web/CSS) 
+  - [Básico](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics). En este apartado podrás encontrar la utilidad de las hojas de estilo CSS, anatomía de una regla, tipos de selectores y propiedades más comunes (color de fondo, efectos, fuentes y texto). Además, encontrarás una introducción al `modelo de cajas` que usa el navegador para ubicar los elementos visualmente.
+  - [Modelo de cajas](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/El_modelo_de_caja). ¡Todo es una caja! Aquí se revisa en qué consiste el modelo de cajas, los tipos de caja: inline y block, y las partes de una caja.
+  - [Sass](https://sass-lang.com/). Este lenguaje de hoja de estilos proporciona los mecanismos para la declaración de variables, nesting (anidamiento), mixins y herencia de los selectores.
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+### 2. Diseño web adaptable
 
-### Current open positions
+- [ ] [**Diseño adaptable**](/)
+- [ ] [**Mejora progresiva**](/)
 
-You find the current job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
+### 3. Programación web en el cliente
 
-It might be interesting to look at some past job advertisements. While the projects keep changing, the themes are still roughly the same. You can download them [here]({{ site.baseurl }}/downloads/PD.pdf), [here]({{ site.baseurl }}/downloads/PHD1.pdf), or [here]({{ site.baseurl }}/downloads/PHD2.pdf).
+- [ ] [**Javascript**](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  - [Básico](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics). En esta publicación encontrarán las generalidades de Javascript y una introducción al lenguaje que incluye definición de variables, condicionales, funciones y eventos.
+  - [Web API](https://developer.mozilla.org/es/docs/Web/API) En esta sección puedes encontrar las referencias al Web API que se utiliza cuando programas con Javascript.
+  - [DOM API](google.com)
+  - [TypeScript](google.com)
+  - [AJAX](google.com)
+  - [WebSockets](google.com)
+  
+- [ ] **Web framework del lado del cliente: Angular**. En el [sitio oficial](https://angular.io/) pueden encontrar la documentación completa.
+  - [Primera aplicación](https://angular.io/start)
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+### 4. Programación web multiplataforma
 
-There are  postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
+- [ ] [**PWA vs Hybrid App vs Native**](https://blog.bitsrc.io/4-ways-to-build-your-mobile-app-make-the-right-choice-efe079c7c817) En este artículo se exponen los escenarios y realizan una comparación con cada una de las posibles soluciones para generar una aplicación móvil. 
+- [ ] **Angular Material**. La información oficial de Angular Material la encuentran en su [sitio oficial](https://material.angular.io/).
+- [ ] **Angular a Android APK**. En este [tutorial](https://medium.com/@christof.thalmann/convert-angular-project-to-android-apk-in-10-steps-c49e2fddd29) de 10 pasos les puede servir para convertir cualquier proyecto en Angular, de preferencia con Angular Material, en un APK fácil de instalar en su dispositivo Android.
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+### 5. Programación web en el servidor
 
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+- [ ] **Web framework del lado del servidor: Django y Express**
+  
+  - [Django](/)
+    - [Guía de instalación](https://docs.djangoproject.com/en/3.0/intro/install/)
+    - [Primera aplicación](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+    - [Seeder](https://pypi.org/project/django-seed/)
+  - [Express]()
+  
+- [ ] [**Base de datos relacional**](/)
+  
+  - [Migraciones con Sequelize en Express](https://gist.github.com/vapurrmaid/a111bf3fc0224751cb2f76532aac2465)
+  - [Nodejs Rest API con Sqlite3](https://www.youtube.com/watch?v=hVulRRdXWYI)
 
+- [ ] [**Base de datos no relacional**](/)
+  
+  - [MongoDB](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
+  - [Introducción](https://www.youtube.com/watch?v=lWMemPN9t6Q)
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+- [ ] [**Mean stack**](https://medium.com/@jeremyvsjeremy/what-is-the-mean-stack-9d11ae2cd384)
+  - [Parte 1](https://www.youtube.com/watch?v=khCIunNAEHI&t=142s) 
+  - [Parte 2](https://www.youtube.com/watch?v=ccBtSAMFjto)
+
+### 6. Servicios web
+
+- [ ] [**REST**](/)
+- [ ] [**NodeJS**](https://nodejs.org/en/) Este entorno de ejecución utiliza Javascript para generar contenido dinámico de páginas web, manipular archivos, recolectar datos y hacer las operaciones CRUD en el servidor local. 
+  - [NodeJS: Básico](https://www.w3schools.com/nodejs/nodejs_get_started.asp)
+  - [NodeJS: Deployment](https://desarrolloweb.com/articulos/ejecutar-aplicacion-nodejs-pm2.html) En este sitio se encuentran los pasos para llevar a producción una aplicación NodeJS usando el gestor de procesos PM2, para mantener el servicio siempre arrancado, independientemente de fallos o reinicios del servidor.
+- [ ] [**GraphQL**](/)
+  - [Graphql, con Nodejs y Mongodb](https://www.youtube.com/watch?v=Wl8O6wW4FJU)
