@@ -1,11 +1,19 @@
 ---
-title: "DAWM - Tutoriales"
+title: "DAWM - Recursos"
 layout: gridlay
-excerpt: "Tutoriales"
+excerpt: "Recursos"
 sitemap: false
 permalink: /tutoriales
 ---
 
+# Recursos para tus sitios web
+
+- Íconos
+  - 'Black White Social Media' by youtube.com/AlfredoCreates. (2018). Iconfinder. Retrieved 3 October 2018, from https://www.iconfinder.com/iconsets/black-white-social-media
+  - Streamline 3.0. (2019). App.streamlineicons.com. Retrieved 7 June 2019, from https://app.streamlineicons.com/streamline-regular/interface-essential
+  - Material Icons. (2020). Material Design. Retrieved 13 May 2020, from https://material.io/resources/icons/?style=baseline
+- Fuentes
+  - 20 Best Google Web Fonts. (2018). Awwwards.com. Retrieved 3 October 2018, from https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html
 
 # Tutoriales
 
