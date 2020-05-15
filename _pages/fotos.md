@@ -1,8 +1,8 @@
 ---
-title: "DAWM - ESPOL"
+title: "DAWM - Fotos"
 layout: piclay
-excerpt: "DAWM - ESPOL"
-permalink: /fotos/
+excerpt: "Fotos"
+permalink: /fotos
 ---
 
 ## Fots
