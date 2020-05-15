@@ -8,7 +8,7 @@ permalink: /recursos
 
 ## Libro gratuitos
 
-- [Programming Notes for Professionals books](contenidos/libros). Free Programming Books; HTML5, CSS3, JavaScript, PHP, Python.... (2020). Goalkicker.com. Retrieved 13 May 2020, from https://goalkicker.com/
+- [Programming Notes for Professionals books](https://goalkicker.com/). Free Programming Books; HTML5, CSS3, JavaScript, PHP, Python.... (2020). Goalkicker.com. Retrieved 13 May 2020, from https://goalkicker.com/
 
 ## Repositorios
    - [Jonathan Quintana](https://github.com/jquintanas?tab=repositories)
