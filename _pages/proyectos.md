@@ -5,17 +5,18 @@ excerpt: "Proyectos"
 permalink: /proyectos
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+## Proyecto
 
+El proyecto se utiliza como experiencia práctica para diseñar e implementar aplicaciones web y móviles cumpliendo con los estándares actuales y las buenas prácticas de programación que faciliten su mantenibilidad, escalabilidad y adaptabilidad. 
 
-## Leiden
+Para esto, el proyecto está dividido en dos capas: presentación (frontend) y acceso de datos (backend). En la capa de presentación se utilizan las tecnologías HTML, CSS y JS; además, se utiliza un marco de trabajo (framework) del lado del cliente y requerimientos web asincrónicos entre el cliente y el servidor. En la capa de acceso de datos se utiliza un framework del lado del servidor para atender los requerimientos del cliente mediante REST API, acceso a base de datos relacionales y no relacionales, seguridad web básica y el proceso de despliegue de la aplicación.
 
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
+### Proyecto Parcial
 
-#### Gallery
-(Right-click *'view image'* to see a larger image.)
+[Planificación](contenidos/documentos/Planificación.docx)
+
+#### Presentación
+(Click derecho y *'Abrir imagen en una nueva pestaña'* para ver la imagen más grande.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
@@ -56,23 +57,4 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 First advertisement.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
-
-
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
-
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
 </figure>
