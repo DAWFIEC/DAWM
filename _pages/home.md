@@ -10,20 +10,20 @@ permalink: /
 Este curso provee a los estudiantes del conocimiento y de la experiencia práctica para diseñar e implementar aplicaciones web y móviles cumpliendo con los estándares actuales y las buenas prácticas de programación que faciliten su mantenibilidad, escalabilidad y adaptabilidad. En el curso se diseñan y modelan aplicaciones que realizan requerimientos web asincrónicos entre el cliente y el servidor para mejorar la experiencia de usuario. Además, se utiliza el patrón de diseño de arquitectura modelo-vista-controlador en la programación en el servidor y en el cliente para separar la lógica del negocio de la interfaz de usuario, permitiendo un fácil mantenimiento de la aplicaciones desarrolladas. Finalmente, en el curso se manejan conceptos independientes de la plataforma web utilizada, por lo que facilita el aprendizaje autónomo de nuevas tecnologías y entornos de trabajo.
 </p>
 
-## Enlaces
+### Enlaces
 
 * [Sitio Web](https://dawfiec.github.io/DAWM/)
 * [Repositorio](https://github.com/DAWFIEC/DAWM/)
+* [Diccionario de términos](https://espolec-my.sharepoint.com/:x:/g/personal/aavendan_espol_edu_ec/EfRGuJNBvv1GiaWKHqJS8BgB8cs4bZryR5ehtuAmiolUlw?e=V4enRM)
 * Ideas
   - [The Global Hack](https://theglobalhack.devpost.com/submissions/search?utf8=%E2%9C%93)
 
-## Generalidades
+### Básico
 
-- [Diccionario de términos](https://espolec-my.sharepoint.com/:x:/g/personal/aavendan_espol_edu_ec/EfRGuJNBvv1GiaWKHqJS8BgB8cs4bZryR5ehtuAmiolUlw?e=V4enRM)
 - [Tim Berners-Lee en TEDx](https://www.ted.com/speakers/tim_berners_lee). Tres charlas magistrales del creador de la web.
 - [¿Cómo funciona la Web?](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/C%C3%B3mo_funciona_la_Web). Aquí exploran el modelo cliente-servidor, otros elementos importantes para crear el internet, el proceso de peticiones desde un cliente a un servidor y el uso de DNS.
 
-## Indicaciones generales
+### Indicaciones generales
 
 Existen algunos sitios especializados, como [A List Apart](https://alistapart.com/), [Mozilla Developer Network](https://developer.mozilla.org/es/), [CSS-Tricks](https://css-tricks.com/), [HTML5Doctor](http://html5doctor.com/), [HTML.com](https://html.com/), [W3Schools](https://www.w3schools.com/tags/default.asp), [Codepen](https://codepen.io/) y [Google Developers](https://developers.google.com/web/?hl=es) dado que tienen publicaciones interesantes, relacionadas con el desarrollo de aplicaciones web. 
 
@@ -41,7 +41,7 @@ Mientras diseñas tu sitio web, puedes utilizar los inspectores de [Mozilla](htt
 
 Cuando tengas listo tu sitio web estático o tu aplicación web dinámica será necesario utilizar un servidor web. Mediante la extensión [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en) para Google Chrome es posible lanzar un servidor local para sitios web estáticos. Si requieres de un PAAS para poner en producción tu aplicación web, existen opciones como [Firebase](https://firebase.google.com/docs/hosting/quickstart?authuser=1) o [Heroku](https://www.heroku.com/).
 
-## Formato básico para la sintaxis de un README en github
+### Formato básico para la sintaxis de un README en github
 
 Basic writing and formatting syntax - User Documentation. (2018). 
 Help.github.com. Retrieved 25 September 2018, 
