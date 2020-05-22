@@ -6,11 +6,11 @@ sitemap: false
 permalink: /recursos
 ---
 
-## Libro gratuitos
+### Libro gratuitos
 
 - [Programming Notes for Professionals books](https://goalkicker.com/). Free Programming Books; HTML5, CSS3, JavaScript, PHP, Python.... (2020). Goalkicker.com. Retrieved 13 May 2020, from https://goalkicker.com/
 
-## Repositorios
+### Repositorios
    - [Jonathan Quintana](https://github.com/jquintanas?tab=repositories)
       - API REST
         - [Repositorio](https://github.com/jquintanas/api-rest)
@@ -23,19 +23,19 @@ permalink: /recursos
         - [Repositorio](https://github.com/emiliomoran/Django_DAW_2S_2019)
         - [Tutorial](contenidos/tutoriales/Django.pdf)
 
-## Colores
+### Colores
   - Create a palette - Coolors. (2020). Coolors.co. Retrieved 16 May 2020, from https://coolors.co/37123c-71677c-a99f96-dda77b-945d5e
  
-## Íconos
+### Íconos
   - 'Black White Social Media' by youtube.com/AlfredoCreates. (2018). Iconfinder. Retrieved 3 October 2018, from https://www.iconfinder.com/iconsets/black-white-social-media
   - Streamline 3.0. (2019). App.streamlineicons.com. Retrieved 7 June 2019, from https://app.streamlineicons.com/streamline-regular/interface-essential
   - Material Icons. (2020). Material Design. Retrieved 13 May 2020, from https://material.io/resources/icons/?style=baseline
 
-## Fuentes
+### Fuentes
   - 20 Best Google Web Fonts. (2018). Awwwards.com. Retrieved 3 October 2018, from https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html
   - DaFont - Descargar fuentes. (2020). Dafont.com. Retrieved 16 May 2020, from https://www.dafont.com/es/
 
-## Tutoriales
+### Tutoriales
 
 {% for publi in site.data.publist %}
 <div class="row">
