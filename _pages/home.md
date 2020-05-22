@@ -10,7 +10,12 @@ permalink: /
 Este curso provee a los estudiantes del conocimiento y de la experiencia práctica para diseñar e implementar aplicaciones web y móviles cumpliendo con los estándares actuales y las buenas prácticas de programación que faciliten su mantenibilidad, escalabilidad y adaptabilidad. En el curso se diseñan y modelan aplicaciones que realizan requerimientos web asincrónicos entre el cliente y el servidor para mejorar la experiencia de usuario. Además, se utiliza el patrón de diseño de arquitectura modelo-vista-controlador en la programación en el servidor y en el cliente para separar la lógica del negocio de la interfaz de usuario, permitiendo un fácil mantenimiento de la aplicaciones desarrolladas. Finalmente, en el curso se manejan conceptos independientes de la plataforma web utilizada, por lo que facilita el aprendizaje autónomo de nuevas tecnologías y entornos de trabajo.
 </p>
 
-### Enlaces
+### Conocimientos básicos
+
+- [Tim Berners-Lee en TEDx](https://www.ted.com/speakers/tim_berners_lee). Tres charlas magistrales del creador de la web.
+- [¿Cómo funciona la Web?](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/C%C3%B3mo_funciona_la_Web). Aquí exploran el modelo cliente-servidor, otros elementos importantes para crear el internet, el proceso de peticiones desde un cliente a un servidor y el uso de DNS.
+
+### Enlaces de la materia
 
 * [Sitio Web](https://dawfiec.github.io/DAWM/)
 * [Repositorio](https://github.com/DAWFIEC/DAWM/)
@@ -18,12 +23,8 @@ Este curso provee a los estudiantes del conocimiento y de la experiencia prácti
 * Ideas
   - [The Global Hack](https://theglobalhack.devpost.com/submissions/search?utf8=%E2%9C%93)
 
-### Básico
 
-- [Tim Berners-Lee en TEDx](https://www.ted.com/speakers/tim_berners_lee). Tres charlas magistrales del creador de la web.
-- [¿Cómo funciona la Web?](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/C%C3%B3mo_funciona_la_Web). Aquí exploran el modelo cliente-servidor, otros elementos importantes para crear el internet, el proceso de peticiones desde un cliente a un servidor y el uso de DNS.
-
-### Indicaciones generales
+### Enlaces interesantes
 
 Existen algunos sitios especializados, como [A List Apart](https://alistapart.com/), [Mozilla Developer Network](https://developer.mozilla.org/es/), [CSS-Tricks](https://css-tricks.com/), [HTML5Doctor](http://html5doctor.com/), [HTML.com](https://html.com/), [W3Schools](https://www.w3schools.com/tags/default.asp), [Codepen](https://codepen.io/) y [Google Developers](https://developers.google.com/web/?hl=es) dado que tienen publicaciones interesantes, relacionadas con el desarrollo de aplicaciones web. 
 
