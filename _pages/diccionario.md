@@ -20,3 +20,5 @@ permalink: /diccionario
 * [HTTP](https://developer.mozilla.org/es/docs/Web/HTTP/Overview). Este protocolo permite realizar una petición de datos y recursos de la Web.
   * [Cabeceras](https://developer.mozilla.org/es/docs/Web/HTTP/Headers). Mediante las cabeceras se comparte información adicional entre el cliente y el servidor.
   * [Métodos](https://developer.mozilla.org/es/docs/Web/HTTP/Methods). Es posible hacer peticiones particulares sobre los recursos por lo que resulta necesario establecer verbos de acciones.
+* [DOM](https://javascript.info/dom-nodes). El DOM y su uso a través de ejemplos de etiquetas, anidamientos, autocorrección e inspección por la consola del navegador.
+* [Objeto: Document](https://javascript.info/dom-navigation). Este objeto te permite manipular el DOM de cualquier página web.
