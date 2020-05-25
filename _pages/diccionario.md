@@ -1,13 +1,12 @@
 ---
-title: "DAWM - Recursos"
+title: "DAWM - Diccionario"
 layout: gridlay
-excerpt: "Recursos"
+excerpt: "Diccionario"
 sitemap: false
-permalink: /recursos
+permalink: /diccionario
 ---
 
 # Diccionario
-
 
 ## Por completar
 
