@@ -8,6 +8,10 @@ permalink: /recursos
 
 # Recursos
 
+## Tutoriales en línea
+
+- [Tutorial, T.](https://javascript.info/) (2020). The Modern JavaScript Tutorial. Javascript.info. Retrieved 25 May 2020, from https://javascript.info/
+
 ## Libro gratuitos
 
 - [Programming Notes for Professionals books](https://goalkicker.com/). Free Programming Books; HTML5, CSS3, JavaScript, PHP, Python.... (2020). Goalkicker.com. Retrieved 13 May 2020, from https://goalkicker.com/
@@ -36,10 +40,6 @@ permalink: /recursos
 ## Fuentes
   - [20 Best Google Web Fonts.](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html) (2018). Awwwards.com. Retrieved 3 October 2018, from https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html
   - [DaFont - Descargar fuentes.](https://www.dafont.com/es/) (2020). Dafont.com. Retrieved 16 May 2020, from https://www.dafont.com/es/
-
-## Tutoriales
-
-- [Tutorial, T.](https://javascript.info/) (2020). The Modern JavaScript Tutorial. Javascript.info. Retrieved 25 May 2020, from https://javascript.info/
 
 ## Videos
 
