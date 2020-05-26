@@ -23,7 +23,7 @@ permalink: /diccionario
 * [DOM](https://javascript.info/dom-nodes). El DOM y su uso a través de ejemplos de etiquetas, anidamientos, autocorrección e inspección por la consola del navegador.
 * [Objeto: Document](https://javascript.info/dom-navigation). Este objeto te permite manipular el DOM de cualquier página web.
 * ¿Cómo funciona el navegador? Este artículo compuesto por 4 partes nos explica en detalle el funcionamiento del navegador web: Chrome. 
-  * [Parte 1](https://developers.google.com/web/updates/2018/09/inside-browser-part1). La arquitectura multiproceso de Chrome.
+  * [Parte 1](https://developers.google.com/web/updates/2018/09/inside-browser-part1). La arquitectura multiproceso por pestañas que utiliza Chrome.
   * [Parte 2](https://developers.google.com/web/updates/2018/09/inside-browser-part2). El funcionamiento interno de Chrome.
   * [Parte 3](https://developers.google.com/web/updates/2018/09/inside-browser-part3). La renderización de contenidos por el navegador.
   * [Parte 4](https://developers.google.com/web/updates/2018/09/inside-browser-part4). El manejo de eventos provocados por el usuario.
