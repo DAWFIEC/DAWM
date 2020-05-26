@@ -26,4 +26,4 @@ permalink: /diccionario
   * [Parte 1](https://developers.google.com/web/updates/2018/09/inside-browser-part1). La arquitectura multiproceso por pestañas que utiliza Chrome.
   * [Parte 2](https://developers.google.com/web/updates/2018/09/inside-browser-part2). El funcionamiento interno de Chrome al hacer requerimientos en la red.
   * [Parte 3](https://developers.google.com/web/updates/2018/09/inside-browser-part3). La renderización de contenidos por el navegador.
-  * [Parte 4](https://developers.google.com/web/updates/2018/09/inside-browser-part4). El manejo de eventos provocados por el usuario.
+  * [Parte 4](https://developers.google.com/web/updates/2018/09/inside-browser-part4). El manejo de eventos por el navegador.
