@@ -12,6 +12,7 @@ permalink: /recursos
 
 - [Tutorial, T.](https://javascript.info/) (2020). The Modern JavaScript Tutorial. Javascript.info. Retrieved 25 May 2020, from https://javascript.info/
 - [Lorem Ipsum - All the facts - Lipsum generator.](https://es.lipsum.com/) (2020). Es.lipsum.com. Retrieved 27 May 2020, from https://es.lipsum.com/
+- [Why You Should Choose HTML5 article Over section — Smashing Magazine](https://www.smashingmagazine.com/2020/01/html5-article-section/). (2020). Smashing Magazine. Retrieved 27 May 2020, from https://www.smashingmagazine.com/2020/01/html5-article-section/
 
 ## Libro gratuitos
 
