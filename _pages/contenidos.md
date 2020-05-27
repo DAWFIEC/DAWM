@@ -11,6 +11,7 @@ permalink: /contenidos
 
 - [ ] [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML)
   - [Básico](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics). Aquí se revisan conceptos como el significado de `lenguaje de marcado`, anatomía de un elemento HTML, atributos, anidación, elementos vacíos, anatomía general de un documento HTML y etiquetas (imágenes, encabezados, párrafos, listas y vínculos).
+  - [Head](https://support.google.com/webmasters/answer/79812?hl=es). En esta publicación se describen las etiquetas, en la cabecera, y metaetiquetas a nivel de página, como directivas, insertadas para controlar cómo aparecerán las páginas de tu sitio web en la Búsqueda.
   - [Formularios](google.com)
 - [ ] [**CSS**](https://developer.mozilla.org/es/docs/Web/CSS) 
   - [Básico](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics). En este apartado podrás encontrar la utilidad de las hojas de estilo CSS, anatomía de una regla, tipos de selectores y propiedades más comunes (color de fondo, efectos, fuentes y texto). Además, encontrarás una introducción al `modelo de cajas` que usa el navegador para ubicar los elementos visualmente.
