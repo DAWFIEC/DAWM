@@ -8,9 +8,10 @@ permalink: /recursos
 
 # Recursos
 
-## Tutoriales en línea
+## Sitios web
 
 - [Tutorial, T.](https://javascript.info/) (2020). The Modern JavaScript Tutorial. Javascript.info. Retrieved 25 May 2020, from https://javascript.info/
+- [Lorem Ipsum - All the facts - Lipsum generator.](https://es.lipsum.com/) (2020). Es.lipsum.com. Retrieved 27 May 2020, from https://es.lipsum.com/
 
 ## Libro gratuitos
 
