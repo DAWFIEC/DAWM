@@ -10,22 +10,32 @@ permalink: /contenidos
 ### 1. Estructura y estilo de un documento web
 
 - [ ] [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML)
+
   - [Básico](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics). Aquí se revisan conceptos como el significado de `lenguaje de marcado`, anatomía de un elemento HTML, atributos, anidación, elementos vacíos, anatomía general de un documento HTML y etiquetas (imágenes, encabezados, párrafos, listas y vínculos).
+  - [Cabecera](https://developer.mozilla.org/es/docs/Web/HTML). La cabecera de un documento HTML es la parte que no se muestra en el navegador cuando se carga la página, aquí encontrarás la descripción y utilidad de cada una de las etiquetas.  Además, en [esta publicación](https://support.google.com/webmasters/answer/79812?hl=es) se describen las etiquetas, en la cabecera, y metaetiquetas a nivel de página, como directivas, insertadas para controlar cómo aparecerán las páginas de tu sitio web en la Búsqueda.
+  - [Cuerpo](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals). En esta publicación explica la estructura y composición del cuerpo de un documento HTML, la necesidad de una estructura semántica y el uso de las etiquetas HTML.
+  - [Elementos HTML](https://html.spec.whatwg.org/multipage/). En este sitio encontrarás la lista de etiquetas HTML con su descripción, uso y etiquetas anidadas. El [MDN - HTML](https://developer.mozilla.org/es/docs/Web/HTML/Elemento) es otro sitio de referencia del uso de etiquetas HTML.
+  - [Entidades](https://dev.w3.org/html5/html-author/charref). Ciertos caracteres especiales son reservados para no ser parseados como etiquetas HTML.
   - [Formularios](google.com)
+  
 - [ ] [**CSS**](https://developer.mozilla.org/es/docs/Web/CSS) 
+
   - [Básico](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics). En este apartado podrás encontrar la utilidad de las hojas de estilo CSS, anatomía de una regla, tipos de selectores y propiedades más comunes (color de fondo, efectos, fuentes y texto). Además, encontrarás una introducción al `modelo de cajas` que usa el navegador para ubicar los elementos visualmente.
   - [Selectores](https://www.csssolid.com/css-selectors.html). Los selectores permiten acceder a cada elemento dentro de la página HTML a través de nombre predefinidos, como: nombres de elementos, identificadores, clases, pseudo elementos y pseudo selectores.
   - [Modelo de cajas](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/El_modelo_de_caja). ¡Todo es una caja! Aquí se revisa en qué consiste el modelo de cajas, los tipos de caja: inline y block, y las partes de una caja.
   - [Sass](https://sass-lang.com/). Este lenguaje de hoja de estilos proporciona los mecanismos para la declaración de variables, nesting (anidamiento), mixins y herencia de los selectores.
+  
 
 ### 2. Diseño web adaptable
 
 - [ ] [**Diseño adaptable**](/)
+
 - [ ] [**Mejora progresiva**](/)
 
 ### 3. Programación web en el cliente
 
 - [ ] [**Javascript**](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
   - [Básico](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics). En esta publicación encontrarán las generalidades de Javascript y una introducción al lenguaje que incluye definición de variables, condicionales, funciones y eventos.
   - [Web API](https://developer.mozilla.org/es/docs/Web/API) En esta sección puedes encontrar las referencias al Web API que se utiliza cuando programas con Javascript.
   - [DOM](https://javascript.info/dom-nodes). El DOM y su uso a través de ejemplos de etiquetas, anidamientos, autocorrección e inspección por la consola del navegador.
@@ -35,6 +45,7 @@ permalink: /contenidos
   - [WebSockets](google.com)
   
 - [ ] **Web framework del lado del cliente: Angular**. En el [sitio oficial](https://angular.io/) pueden encontrar la documentación completa.
+
   - [Primera aplicación](https://angular.io/start)
 
 ### 4. Programación web multiplataforma
@@ -51,6 +62,7 @@ permalink: /contenidos
     - [Guía de instalación](https://docs.djangoproject.com/en/3.0/intro/install/)
     - [Primera aplicación](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
     - [Seeder](https://pypi.org/project/django-seed/)
+    
   - [Express]()
   
 - [ ] [**Base de datos relacional**](/)

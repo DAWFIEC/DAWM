@@ -13,7 +13,7 @@ Para esto, el proyecto está dividido en dos capas: presentación (frontend) y a
 
 ## Proyecto Parcial
 
-[Planificación](contenidos/documentos/Planificación.docx)
+- [ ] [Planificación](contenidos/documentos/Planificación.docx)
 
 ### Presentación
 (Click derecho y *'Abrir imagen en una nueva pestaña'* para ver la imagen más grande.)
