@@ -14,7 +14,8 @@ permalink: /recursos
 - [HTML Examples.](https://www.w3schools.com/html/html_examples.asp) (2020). W3schools.com. Retrieved 28 May 2020, from https://www.w3schools.com/html/html_examples.asp
 - [Tutorial, T.](https://javascript.info/) (2020). The Modern JavaScript Tutorial. Javascript.info. Retrieved 25 May 2020, from https://javascript.info/
 - [Lorem Ipsum - All the facts - Lipsum generator.](https://es.lipsum.com/) (2020). Es.lipsum.com. Retrieved 27 May 2020, from https://es.lipsum.com/
-- [Why You Should Choose HTML5 article Over section — Smashing Magazine](https://www.smashingmagazine.com/2020/01/html5-article-section/). (2020). Smashing Magazine. Retrieved 27 May 2020, from https://www.smashingmagazine.com/2020/01/html5-article-section/
+- [Why You Should Choose HTML5 article Over section — Smashing Magazine.](https://www.smashingmagazine.com/2020/01/html5-article-section/) (2020). Smashing Magazine. Retrieved 27 May 2020, from https://www.smashingmagazine.com/2020/01/html5-article-section/
+- [Glosario.](https://developer.mozilla.org/es/docs/Glossary) (2020). Documentación web de MDN. Retrieved 29 May 2020, from https://developer.mozilla.org/es/docs/Glossary
 
 ## Libro gratuitos
 
