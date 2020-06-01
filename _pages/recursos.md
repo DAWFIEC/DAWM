@@ -8,6 +8,12 @@ permalink: /recursos
 
 # Recursos
 
+## Cheatsheets
+
+- [HTML5](contenidos/cheatsheets/HTML5-cheat-sheet.pdf)
+- [CSS3](contenidos/cheatsheets/css3-cheat-sheet.pdf)
+- [JavaScript](contenidos/cheatsheets/javascript_cheat_sheet.pdf)
+
 ## Sitios web
 
 - [HTML Standard.](https://html.spec.whatwg.org/multipage/) (2020). Html.spec.whatwg.org. Retrieved 28 May 2020, from https://html.spec.whatwg.org/multipage/
