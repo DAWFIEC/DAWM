@@ -27,7 +27,7 @@ Para esto, el proyecto está dividido en dos capas: presentación (frontend) y a
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picproyectos/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="{{pic.title}}" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/proyectos/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" alt="{{pic.title}}" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
