@@ -9,14 +9,16 @@ permalink: /contenidos
 ## Unidades
 ### 1. Estructura y estilo de un documento web
 
-- [ ] [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML)
+- [x] [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML)
 
   - [Básico](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics). Aquí se revisan conceptos como el significado de `lenguaje de marcado`, anatomía de un elemento HTML, atributos, anidación, elementos vacíos, anatomía general de un documento HTML y etiquetas (imágenes, encabezados, párrafos, listas y vínculos).
   - [Cabecera](https://developer.mozilla.org/es/docs/Web/HTML). La cabecera de un documento HTML es la parte que no se muestra en el navegador cuando se carga la página, aquí encontrarás la descripción y utilidad de cada una de las etiquetas.  Además, en [esta publicación](https://support.google.com/webmasters/answer/79812?hl=es) se describen las etiquetas, en la cabecera, y metaetiquetas a nivel de página, como directivas, insertadas para controlar cómo aparecerán las páginas de tu sitio web en la Búsqueda.
   - [Cuerpo](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals). En esta publicación explica la estructura y composición del cuerpo de un documento HTML, la necesidad de una estructura semántica y el uso de las etiquetas HTML.
   - [Elementos HTML](https://html.spec.whatwg.org/multipage/). En este sitio encontrarás la lista de etiquetas HTML con su descripción, uso y etiquetas anidadas. El [MDN - HTML](https://developer.mozilla.org/es/docs/Web/HTML/Elemento) es otro sitio de referencia del uso de etiquetas HTML.
   - [Entidades](https://dev.w3.org/html5/html-author/charref). Ciertos caracteres especiales son reservados para no ser parseados como etiquetas HTML.
-  - [Formularios](google.com)
+  - [Formularios](https://www.html5rocks.com/es/tutorials/forms/html5forms/). Aquí puedes tener una referencia de cómo crear un formulario con HTML5. Mientras que en este [sitio](https://www.webfx.com/blog/web-design/new-html5-form-input-types/) puedes encontrar las referencias a los nuevos tipos de elementos dentro de un formulario en HTML5. 
+  - [Mapas](https://mappinggis.com/2012/05/como-insertar-un-mapa-de-google-maps-en-tu-web/). Este sitio tiene las instrucciones para incrustar mapas de Google, sin requerir las credenciales de desarrollador. 
+  - [Video y Audios](https://developer.mozilla.org/es/docs/Web/HTML/Usando_audio_y_video_con_HTML5). Este enlace contiene la información básica acerca del la incrustación de audio y video dentro de una página html. En particular, aquí hay dos enlaces para embeber archivos [mp3](https://www.labnol.org/internet/google-drive-mp3-embed/2232/) o [insertar videos de Youtube](https://www.desarrollolibre.net/blog/html/como-insertar-videos-de-youtube-en-nuestra-web-html#.XtccmDr0k2w).
   
 - [ ] [**CSS**](https://developer.mozilla.org/es/docs/Web/CSS) 
 
