@@ -20,11 +20,12 @@ permalink: /contenidos
   - [Mapas](https://mappinggis.com/2012/05/como-insertar-un-mapa-de-google-maps-en-tu-web/). Este sitio tiene las instrucciones para incrustar mapas de Google, sin requerir las credenciales de desarrollador. 
   - [Video y Audios](https://developer.mozilla.org/es/docs/Web/HTML/Usando_audio_y_video_con_HTML5). Este enlace contiene la información básica acerca del la incrustación de audio y video dentro de una página html. En particular, aquí hay dos enlaces para embeber archivos [mp3](https://www.labnol.org/internet/google-drive-mp3-embed/2232/) o [videos](https://www.desarrollolibre.net/blog/html/como-insertar-videos-de-youtube-en-nuestra-web-html#.XtccmDr0k2w)  de Youtube.
   
-- [ ] [**CSS**](https://developer.mozilla.org/es/docs/Web/CSS) 
+- [X] [**CSS**](https://developer.mozilla.org/es/docs/Web/CSS) 
 
   - [Básico](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics). En este apartado podrás encontrar la utilidad de las hojas de estilo CSS, anatomía de una regla, tipos de selectores y propiedades más comunes (color de fondo, efectos, fuentes y texto). Además, encontrarás una introducción al `modelo de cajas` que usa el navegador para ubicar los elementos visualmente.
   - [Selectores](https://www.csssolid.com/css-selectors.html). Los selectores permiten acceder a cada elemento dentro de la página HTML a través de nombre predefinidos, como: nombres de elementos, identificadores, clases, pseudo elementos y pseudo selectores. El [MDN - CSS](https://developer.mozilla.org/es/docs/Web/CSS/Selectores_CSS) de selectores.
   - [Modelo de cajas](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/El_modelo_de_caja). ¡Todo es una caja! Aquí se revisa en qué consiste el modelo de cajas, los tipos de caja: inline y block, y las partes de una caja.
+  - [Colocación de cajas](https://www.diegocmartin.com/modelo-de-cajas-y-posicionamiento-css/). Ubicar una caja requiere identificar los componentes (margin, background, border, padding y content ) y las formas de hacerlo (float, display > inline-block, grid y flexbox). En la guía completa de [grid](https://css-tricks.com/snippets/css/complete-guide-grid/) y [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) encontrarás las propiedades básicas para darle una estructura a tu sitio web. Por otro lado, un par de sitio como sandbox para probar tus conocimientos de [grid](https://cssgridgarden.com/#es) y [flexbox](https://flexboxfroggy.com/#es). 
   - [Sass](https://sass-lang.com/). Este lenguaje de hoja de estilos proporciona los mecanismos para la declaración de variables, nesting (anidamiento), mixins y herencia de los selectores.
   
 
