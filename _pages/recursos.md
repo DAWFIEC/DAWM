@@ -9,6 +9,10 @@ permalink: /recursos
 # Recursos
 
 ## Cheatsheets
+ - [HTML](contenidos/diapositivas/HTML.rar)
+ - [CSS](contenidos/diapositivas/CSS.rar)
+
+## Cheatsheets
 
 - [HTML5](contenidos/cheatsheets/HTML5-cheat-sheet.pdf)
 - [CSS3](contenidos/cheatsheets/css3-cheat-sheet.pdf)
