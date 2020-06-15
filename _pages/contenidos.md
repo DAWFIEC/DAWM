@@ -39,7 +39,7 @@ permalink: /contenidos
 
 - [X] [**Mejora progresiva**](https://developer.mozilla.org/es/docs/Glossary/Progressive_Enhancement)
 
-  - []().
+  - [Ventajas](https://developer.mozilla.org/es/docs/Web/Progressive_web_apps/Ventajas). Para ser reconocibles por los buscadores, las aplicaciones web deben proveer de los mecanismos para que el contenido sea indexable, indistintamente del navegador sobre el que se realice el requerimiento como cliente.
 
 ### 3. Programación web en el cliente
 
