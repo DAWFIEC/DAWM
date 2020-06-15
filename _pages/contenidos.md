@@ -31,7 +31,9 @@ permalink: /contenidos
 
 ### 2. Diseño web adaptable
 
-- [ ] [**Diseño adaptable**](/)
+- [ ] [**Diseño responsivo**](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Responsive/responsive_design_building_blocks)
+  
+  - [Media Queries](https://developer.mozilla.org/es/docs/CSS/Media_queries). Los media queries te permiten modificar el aspecto visual de tu página web de acuerdo a ciertas condiciones del navegador del cliente.
 
 - [ ] [**Mejora progresiva**](/)
 
