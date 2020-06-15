@@ -8,9 +8,10 @@ permalink: /fundamental
 
 # Fundamental
 
-## Diccionario Colaborativo
+## Diccionario
 
 * [Diccionario de términos](https://espolec-my.sharepoint.com/:x:/g/personal/aavendan_espol_edu_ec/EfRGuJNBvv1GiaWKHqJS8BgB8cs4bZryR5ehtuAmiolUlw?e=V4enRM)
+* [Glosario de MDN](https://developer.mozilla.org/es/docs/Glossary)
 
 
 ## Conocimientos Generales
