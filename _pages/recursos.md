@@ -8,7 +8,7 @@ permalink: /recursos
 
 # Recursos
 
-## Cheatsheets
+## Diapositivas
  - [HTML](contenidos/diapositivas/HTML.rar)
  - [CSS](contenidos/diapositivas/CSS.rar)
  - [RWD](contenidos/diapositivas/RWD.rar)
