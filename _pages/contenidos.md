@@ -56,6 +56,7 @@ permalink: /contenidos
 - [ ] **Web framework del lado del cliente: Angular**. En el [sitio oficial](https://angular.io/) pueden encontrar la documentación completa.
 
   - [Primera aplicación](https://angular.io/start)
+  - [Await & Async](https://medium.com/@balramchavan/using-async-await-feature-in-angular-587dd56fdc77)
 
 ### 4. Programación web multiplataforma
 
