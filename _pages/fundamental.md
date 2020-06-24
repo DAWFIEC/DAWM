@@ -27,3 +27,4 @@ permalink: /fundamental
   * [Parte 3](https://developers.google.com/web/updates/2018/09/inside-browser-part3). La renderización de contenidos por el navegador.
   * [Parte 4](https://developers.google.com/web/updates/2018/09/inside-browser-part4). El manejo de eventos por el navegador.
 * [CORS](https://developer.mozilla.org/es/docs/Web/HTTP/Access_control_CORS). Los requerimientos de recursos no solamente se realizan dentro del mismo dominio, por lo que, en algunas ocasiones es necesario hacer requerimiento a recursos compartidos en domininios cruzados. Para [habilitar](https://web.dev/cross-origin-resource-sharing/) este tipo de requerimientos es cuestión de hacer ciertos cambios en el servidor y en el cliente (dependiendo del navegador).
+* [Javascript: Estándar](https://www.ecma-international.org/publications/standards/Ecma-262.htm). Aquí encontrarás el estándar sobre el que se fundamenta Javascript para los fabricantes de navegadores y desarrolladores.
