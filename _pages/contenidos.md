@@ -39,11 +39,11 @@ permalink: /contenidos
 
 - [X] [**Mejora progresiva**](https://developer.mozilla.org/es/docs/Glossary/Progressive_Enhancement)
 
-  - [Ventajas](https://developer.mozilla.org/es/docs/Web/Progressive_web_apps/Ventajas). Para ser reconocibles por los buscadores, las aplicaciones web deben proveer de los mecanismos para que el contenido sea indexable, indistintamente del navegador sobre el que se realice el requerimiento como cliente.
+  - [¿Por qué aplicar "Mejora Progresiva"?](https://developer.mozilla.org/es/docs/Web/Progressive_web_apps/Ventajas). Para ser reconocibles por los buscadores, las aplicaciones web deben proveer de los mecanismos para que el contenido sea indexable, indistintamente del navegador sobre el que se realice el requerimiento como cliente.
 
 ### 3. Programación web en el cliente
 
-- [ ] [**Javascript**](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [X] [**Javascript**](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
   - [Básico](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics). En esta publicación encontrarán las generalidades de Javascript y una introducción al lenguaje que incluye definición de variables, condicionales, funciones y eventos.
   - [Arreglos](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array)
@@ -51,6 +51,7 @@ permalink: /contenidos
   - [Web API](https://developer.mozilla.org/es/docs/Web/API) En esta sección puedes encontrar las referencias al Web API que se utiliza cuando programas con Javascript.
   - [DOM](https://javascript.info/dom-nodes). El DOM y su uso a través de ejemplos de etiquetas, anidamientos, autocorrección e inspección por la consola del navegador.
   - [Objeto: Document](https://javascript.info/dom-navigation). Este objeto te permite manipular el DOM de cualquier página web.
+  - [Asincronía](https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono). En este sitio encontrarás una descripción completa de los patrones de asincronía que maneja JavaScript.
   - [TypeScript](google.com)
   - [AJAX](google.com)
   - [WebSockets](google.com)
