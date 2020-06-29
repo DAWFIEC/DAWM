@@ -57,6 +57,9 @@ permalink: /contenidos
   - [AJAX](https://www.espai.es/blog/2019/07/ajax-con-fetch-api/). La tecnología de requerimientos asincrónicos que maneja JavaScript permite hacer requerimientos a terceros sin que necesite recargar todo el contenido de la página.
   - [TypeScript](google.com)
   - [WebSockets](google.com)
+  - Web Frameworks
+    - [Cliente](https://github.com/collections/front-end-javascript-frameworks). Esta lista contiene a los web frameworks del lado del cliente más reconocidos, entre ellos: Angular, Ember, VueJS y React. 
+    - [Servidor](https://www.devsaran.com/blog/10-best-nodejs-frameworks-developers). En este sitio encontrarás los web frameworks de lado del servidor más utilizados, entre ellos: Express.js y Hapi.js
   
 - [ ] **Web framework del lado del cliente: Angular**. En el [sitio oficial](https://angular.io/) pueden encontrar la documentación completa.
 
