@@ -50,11 +50,11 @@ permalink: /contenidos
   - [Objetos](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Trabajando_con_objectos). Esencialmente, todo es un objeto en JavaScript. En algunos casos son elementos propios del navegador y otros son objetos creados por los desarrolladores.
   - [Elementos del navegador](https://javascript.info/browser-environment). Existen elementos básicos que todo navegador debe proveer como interfaz para los desarrolladores de aplicaciones web del lado del cliente.
   - [Web API](https://developer.mozilla.org/es/docs/Web/API) En esta sección puedes encontrar las referencias al Web API que se utiliza cuando programas con Javascript.
-  - [DOM](https://javascript.info/dom-nodes). El DOM y su uso a través de ejemplos de etiquetas, anidamientos, autocorrección e inspección por la consola del navegador.
+  - [DOM](https://javascript.info/dom-nodes). El DOM y su uso a través de ejemplos de etiquetas, anidamientos, autocorrección e inspección por la consola del navegador con sus [propiedades y métodos](https://developer.mozilla.org/es/docs/Web/API/Document).
   - [Objeto: Document](https://javascript.info/dom-navigation). Este objeto te permite manipular el DOM de cualquier página web.
   - [Asincronía](https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono). En este sitio encontrarás una descripción completa de los patrones de asincronía que maneja JavaScript.
+  - [AJAX](https://www.espai.es/blog/2019/07/ajax-con-fetch-api/). La tecnología de requerimientos asincrónicos que maneja JavaScript permite hacer requerimientos a terceros sin que necesite recargar todo el contenido de la página.
   - [TypeScript](google.com)
-  - [AJAX](google.com)
   - [WebSockets](google.com)
   
 - [ ] **Web framework del lado del cliente: Angular**. En el [sitio oficial](https://angular.io/) pueden encontrar la documentación completa.
