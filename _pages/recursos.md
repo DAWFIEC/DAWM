@@ -43,7 +43,7 @@ permalink: /recursos
       - GraphQL
         - [Repositorio](https://github.com/jquintanas/graphql-DAW)
         - [Tutorial](contenidos/tutoriales/GraphQL.pdf)
-   - [Geancarlo Murillo]
+   - [Geancarlo Murillo](https://github.com/gcmurillo)
      - Sass 
        - [Repositorio](https://github.com/gcmurillo/sass)
        - [Tutorial](https://github.com/gcmurillo/sass)
