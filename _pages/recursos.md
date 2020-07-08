@@ -43,6 +43,13 @@ permalink: /recursos
       - GraphQL
         - [Repositorio](https://github.com/jquintanas/graphql-DAW)
         - [Tutorial](contenidos/tutoriales/GraphQL.pdf)
+   - [Geancarlo Murillo](https://github.com/gcmurillo)
+     - Sass 
+       - [Repositorio](https://github.com/gcmurillo/sass)
+       - [Tutorial](https://github.com/gcmurillo/sass)
+     - Ajax
+       - [Repositorio](https://github.com/gcmurillo/ajax_tutorial)
+       - [Tutorial](https://github.com/gcmurillo/ajax_tutorial)
    - [Emilio Morán](https://github.com/emiliomoran)
       - Django
         - [Repositorio](https://github.com/emiliomoran/Django_DAW_2S_2019)
