@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "5efc8c7fed3f80f121f6a523",
+    "index": 0,
+    "nombre": "Bessie Schultz",
+    "keywords": "sit excepteur voluptate fugiat sunt",
+    "colegas": [
+      {
+        "id": 0,
+        "nombre": "Contreras Durham"
+      },
+      {
+        "id": 1,
+        "nombre": "Hilary Walls"
+      },
+      {
+        "id": 2,
+        "nombre": "Benjamin Daniels"
+      }
+    ]
+  },
+  {
+    "_id": "5efc8c7f038d6cebed5a7e13",
+    "index": 1,
+    "nombre": "Lindsey Espinoza",
+    "keywords": "elit qui ullamco pariatur ad",
+    "colegas": [
+      {
+        "id": 0,
+        "nombre": "Monroe Mendoza"
+      },
+      {
+        "id": 1,
+        "nombre": "Cassandra Emerson"
+      },
+      {
+        "id": 2,
+        "nombre": "Candy Salazar"
+      }
+    ]
+  },
+  {
+    "_id": "5efc8c7f390af214c972a8b9",
+    "index": 2,
+    "nombre": "Kimberley Reese",
+    "keywords": "eu nostrud eiusmod commodo id",
+    "colegas": [
+      {
+        "id": 0,
+        "nombre": "Consuelo Crosby"
+      },
+      {
+        "id": 1,
+        "nombre": "Waller Holmes"
+      },
+      {
+        "id": 2,
+        "nombre": "Carole Dominguez"
+      }
+    ]
+  },
+  {
+    "_id": "5efc8c7f2b4ae25e66cff095",
+    "index": 3,
+    "nombre": "Doreen Noel",
+    "keywords": "Lorem duis eiusmod eu cupidatat",
+    "colegas": [
+      {
+        "id": 0,
+        "nombre": "Mariana Garcia"
+      },
+      {
+        "id": 1,
+        "nombre": "Murray Livingston"
+      },
+      {
+        "id": 2,
+        "nombre": "Myrtle Sellers"
+      }
+    ]
+  },
+  {
+    "_id": "5efc8c7f325e3ac20bf19415",
+    "index": 4,
+    "nombre": "Fanny Foley",
+    "keywords": "elit sunt voluptate anim aliquip",
+    "colegas": [
+      {
+        "id": 0,
+        "nombre": "Gilmore Lucas"
+      },
+      {
+        "id": 1,
+        "nombre": "Floyd Roman"
+      },
+      {
+        "id": 2,
+        "nombre": "Lauren England"
+      }
+    ]
+  },
+  {
+    "_id": "5efc8c7ffdd44eb617192071",
+    "index": 5,
+    "nombre": "Pauline Hatfield",
+    "keywords": "irure minim laboris adipisicing labore",
+    "colegas": [
+      {
+        "id": 0,
+        "nombre": "Francine Long"
+      },
+      {
+        "id": 1,
+        "nombre": "Madelyn Barber"
+      },
+      {
+        "id": 2,
+        "nombre": "Bowman Williamson"
+      }
+    ]
+  }
+]

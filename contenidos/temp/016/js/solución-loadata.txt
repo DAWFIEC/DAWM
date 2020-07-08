@@ -1,0 +1,58 @@
+fetch("data/usuarios.xml")
+    .then(function(resultado){
+      return resultado.text()
+    })
+    .then(function(str) {
+
+      
+
+    })
+    .catch(function(error) {
+      console.log('Hubo un problema con la petición Fetch:' + error.message);
+    });
+
+
+===============================
+
+// Parseamos la respuesta
+
+      let parser = new DOMParser()
+      let xml = parser.parseFromString(str, "text/xml");
+
+      let datos = xml.getElementsByTagName('datos');
+      let caption = document.createElement('caption')
+      
+      /* Pasamos los datos del xml al html */
+
+      let table = document.createElement("table");
+      table.setAttribute('class', 'table')
+
+      let captionText = xml.getElementsByTagName('caption')[0].textContent;
+      let captionNodeText = document.createTextNode(captionText)
+      caption.appendChild(captionNodeText)
+
+      table.appendChild(caption)
+
+      for(let dato of datos) {
+
+         let tr = document.createElement("tr");
+         let th = document.createElement("th");
+         let td = document.createElement("td");
+
+         let tipoText = dato.getElementsByTagName("tipo")[0].textContent;
+         let cantidadText = dato.getElementsByTagName("cantidad")[0].textContent;
+         
+         let tipo = document.createTextNode(tipoText);
+         let cantidad = document.createTextNode(cantidadText)
+
+         th.appendChild(tipo)
+         td.appendChild(cantidad)
+
+         tr.appendChild(th);
+         tr.appendChild(td)
+
+         table.appendChild(tr)
+      }
+
+      //Agregamos la tabla al nodo en el html
+      document.getElementById('usuarios').appendChild(table)

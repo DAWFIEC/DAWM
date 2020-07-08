@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "My Cool Extension",
+  "version": "0.1",
+  "browser_action": {
+    "default_icon": "images/icon.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.sidweb.espol.edu.ec/*"
+      ],
+      "js": ["jquery-3.5.1.js", "content.js"]
+    }
+  ]
+}
