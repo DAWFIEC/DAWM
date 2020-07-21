@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ar" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <link rel="icon" type="image/png" href="icon/connections.png" />
+    <title>Conectados</title>
+    <meta name="author" content="AA" />
+    <meta name="keywords" content="profesionales, conexion, informacion" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <nav id="navegacion" class="navbar navbar-expand-lg navbar-light bg-primary">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" (click)="toggleNavbar()">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent" [ngClass]="{ 'show': navbarOpen }">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item"><a class="nav-link text-white" href="/">Principal</a></li>
+                <li class="nav-item active"><a class="nav-link text-white" href="#profesores">Profesores</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="#estudiantes">Estudiantes</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="registrados.html">Registrados</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        <header class="row d-none">
+            <h1 class="col-12 col-sm-12">Conectados</h1>
+            <h2 class="col-12 col-sm-12">Más conectados que nunca</h2>
+        </header>
+        <section id="cabecera" class="row">
+            <h2 class="d-none">Imagen de cabecera</h2>
+            <img src="https://madrese.info/wp-content/uploads/2020/03/images-1.png" alt="Logo de Conectado" class="mx-auto" />
+        </section>
+        <section id="contenido" class="row">
+            <div id="profesores" class="col-12 col-sm-6">
+                <h3 class="tituloseccion">
+                    Profesores
+                    <div class="tooltiptext tooltipStyle">Solo para profesores</div>
+                </h3>
+                <p id="profesores-primero">Sed faucibus tellus urna, sit amet semper sem varius quis. In et euismod nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel nunc est. Donec at libero in lorem auctor sodales. Sed vitae neque orci.</p>
+                <p>Quisque tempus metus a ex fermentum, nec aliquet metus malesuada. Sed tincidunt ut risus vitae pretium. Curabitur eget dictum enim. Cras fringilla porta dignissim. Ut ut dapibus magna, vel maximus urna.</p>
+                <p>Quisque vitae dignissim felis, sit amet interdum massa. Maecenas nec elit pharetra nunc pulvinar pretium.</p>
+                <a href="#navegacion">Ir arriba</a>
+            </div>
+            <div id="estudiantes" class="col-12 col-sm-6">
+                <h3 class="tituloseccion">
+                    Estudiantes
+                    <div class="tooltiptext tooltipStyle">Solo para estudiantes</div>
+                </h3>
+                <p id="estudiantes-primero">Cras enim lorem, dictum eu ante aliquam, efficitur varius ante. Pellentesque sit amet odio ut felis sollicitudin dapibus. </p>
+                <p>Sed vulputate ex eget nisl tincidunt ultricies. Nulla dignissim mi ac metus laoreet congue. Nulla vestibulum velit neque, vel faucibus sapien efficitur efficitur. Sed scelerisque elit ac justo iaculis, sed tincidunt tellus lobortis.</p>
+                <p>Vestibulum justo mi, congue eget auctor aliquam, rutrum in ante. Vestibulum in sollicitudin quam. Sed volutpat, velit eget mollis semper, tortor nisl laoreet arcu, volutpat vulputate dolor est ac risus. </p>
+                <p>Vivamus ultrices et justo in tincidunt. Phasellus vestibulum libero ut quam mattis lacinia. Praesent ullamcorper odio nunc, eu dapibus lorem faucibus eu.</p>
+                <p>Etiam pretium, nunc quis iaculis sollicitudin, velit metus luctus velit, eget dignissim massa leo quis eros. Morbi dapibus augue id ornare convallis.</p>
+                <a href="#navegacion">Ir arriba</a>
+            </div>
+        </section>
+        <div id="chat" class="row containerChat">
+            <h4 id="texto-chat" class="textoChat">Comunícate con nosotros</h4>
+        </div>
+    </div>
+    <footer class="">
+        <p>Copyright &copy; 2020 - Conectados </p>
+    </footer>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+    <!-- Agregar el script -->
+    <script src="js/code.js"></script>
+</body>
+
+</html>

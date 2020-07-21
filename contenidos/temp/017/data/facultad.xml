@@ -1,0 +1,17 @@
+<conectados>
+  <caption>Conexiones por facultad y por mes</caption>
+  <meses>
+    <mes id="4">Abril</mes>
+    <mes id="5">Mayo</mes>
+  </meses>
+  <facultad>
+    <nombre>FIEC</nombre>
+    <cantidad mes="4">100</cantidad>
+    <cantidad mes="5">230</cantidad>
+  </facultad>
+  <facultad>
+    <nombre>FICT</nombre>
+    <cantidad mes="4">20</cantidad>
+    <cantidad mes="5">32</cantidad>
+  </facultad>
+</conectados>

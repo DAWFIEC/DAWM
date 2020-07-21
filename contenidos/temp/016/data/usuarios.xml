@@ -1,0 +1,11 @@
+<conectados>
+  <caption>Usuarios registrados</caption>
+  <datos>
+    <tipo>Profesor</tipo>
+    <cantidad>325</cantidad>
+  </datos>
+  <datos>
+    <tipo>Estudiantes</tipo>
+    <cantidad>1022</cantidad>
+  </datos>
+</conectados>
