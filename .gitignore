@@ -1,5 +1,5 @@
-contenidos/temp/
-contenidos/examen/
+contenidos/temp/*
+contenidos/examen/*
 _site
 .sass-cache
 .jekyll-metadata
