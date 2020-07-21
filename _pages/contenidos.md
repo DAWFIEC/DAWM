@@ -74,6 +74,7 @@ permalink: /contenidos
 ### 4. Programación web multiplataforma
 
 - [ ] [**PWA vs Hybrid App vs Native**](https://blog.bitsrc.io/4-ways-to-build-your-mobile-app-make-the-right-choice-efe079c7c817) En este artículo se exponen los escenarios y realizan una comparación con cada una de las posibles soluciones para generar una aplicación móvil. 
+- [ ] [**Introducción a PWA**](https://developer.mozilla.org/es/docs/Web/Progressive_web_apps/Introduction). En rasgos generales se describen las características de una PWA. 
 - [ ] **Angular Material**. La información oficial de Angular Material la encuentran en su [sitio oficial](https://material.angular.io/).
 - [ ] **Angular a Android APK**. En este [tutorial](https://medium.com/@christof.thalmann/convert-angular-project-to-android-apk-in-10-steps-c49e2fddd29) de 10 pasos les puede servir para convertir cualquier proyecto en Angular, de preferencia con Angular Material, en un APK fácil de instalar en su dispositivo Android.
 
