@@ -61,10 +61,15 @@ permalink: /contenidos
     - [Cliente](https://github.com/collections/front-end-javascript-frameworks). Esta lista contiene a los web frameworks del lado del cliente más reconocidos, entre ellos: Angular, Ember, VueJS y React. 
     - [Servidor](https://www.devsaran.com/blog/10-best-nodejs-frameworks-developers). En este sitio encontrarás los web frameworks de lado del servidor más utilizados, entre ellos: Express.js y Hapi.js
   
-- [ ] **Web framework del lado del cliente: Angular**. En el [sitio oficial](https://angular.io/) pueden encontrar la documentación completa.
+- [X] **Web framework del lado del cliente: Angular**. En el [sitio oficial](https://angular.io/) pueden encontrar la documentación completa.
 
   - [Primera aplicación](https://angular.io/start)
   - [Await & Async](https://medium.com/@balramchavan/using-async-await-feature-in-angular-587dd56fdc77)
+
+- [X] **Web Sockets**.
+  
+  - [API](https://developer.mozilla.org/es/docs/Web/API/WebSockets_API). En el API encontrarás la descripción del objeto que utiliza el navegador para implementar sockets.
+  - [Aplicación Cliente-Servidor](https://levelup.gitconnected.com/getting-started-with-node-js-and-websockets-f22dd0452105). Con este ejemplo, se ilustra la conexión entre un cliente y un servidor mediante sockets de comunicación para un marco de trabajo de la web.
 
 ### 4. Programación web multiplataforma
 
