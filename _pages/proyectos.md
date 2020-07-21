@@ -16,6 +16,7 @@ Para esto, el proyecto está dividido en dos capas: presentación (frontend) y a
 - [X] **Creación de los grupos**
 - [X] [**Planificación**](contenidos/documentos/Planificación.docx)
 - [X] [**Proyecto Parcial**](contenidos/documentos/Proyecto Parcial.docx)
+- [X] [**Retroalimentación**](contenidos/documentos/Retroalimentación.docx)
 
 ### Presentación
 (Click derecho y *'Abrir imagen en una nueva pestaña'* para ver la imagen más grande.)
