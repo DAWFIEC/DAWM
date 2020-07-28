@@ -19,10 +19,10 @@ Para esto, el proyecto está dividido en dos capas: presentación (frontend) y a
 - [X] [**Retroalimentación**](contenidos/documentos/Retroalimentación.docx)
 - [X] [**Proyecto Final**](contenidos/documentos/Proyecto Final.docx)
 
-### Presentación
+### Presentación Proyecto Parcial
 (Click derecho y *'Abrir imagen en una nueva pestaña'* para ver la imagen más grande.)
 {% assign number_printed = 0 %}
-{% for pic in site.data.fotos %}
+{% for pic in site.data.proyectos %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
@@ -31,7 +31,7 @@ Para esto, el proyecto está dividido en dos capas: presentación (frontend) y a
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/fotos/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/proyectos/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
