@@ -58,6 +58,9 @@ permalink: /recursos
       - Django
         - [Repositorio](https://github.com/emiliomoran/Django_DAW_2S_2019)
         - [Tutorial](contenidos/tutoriales/Django.pdf)
+   - Allan Avendaño
+      - Cliente / Servidor
+        - [NodeJS](https://github.com/DAWFIEC/DAWM/blob/gh-pages/contenidos/tutoriales/s%26c.rar)
 
 ## Colores
   - [Create a palette - Coolors.](https://coolors.co/37123c-71677c-a99f96-dda77b-945d5e) (2020). Coolors.co. Retrieved 16 May 2020, from https://coolors.co/37123c-71677c-a99f96-dda77b-945d5e
