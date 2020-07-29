@@ -58,7 +58,7 @@ permalink: /recursos
       - Django
         - [Repositorio](https://github.com/emiliomoran/Django_DAW_2S_2019)
         - [Tutorial](contenidos/tutoriales/Django.pdf)
-   - Allan Avendaño
+   - [DAWM](https://github.com/DAWFIEC/DAWM/)
       - Cliente / Servidor
         - [NodeJS](https://github.com/DAWFIEC/DAWM/blob/gh-pages/contenidos/tutoriales/s%26c.rar)
 
