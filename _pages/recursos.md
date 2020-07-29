@@ -45,6 +45,8 @@ permalink: /recursos
         - [Tutorial](contenidos/tutoriales/GraphQL.pdf)
       - Web Sockets
         - [Repositorio](https://github.com/jquintanas/socketio)
+      - Formularios
+        - [Repositorio](https://github.com/jquintanas/expressForm)
    - [Geancarlo Murillo](https://github.com/gcmurillo)
      - Sass 
        - [Repositorio](https://github.com/gcmurillo/sass)
