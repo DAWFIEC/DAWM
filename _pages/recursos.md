@@ -9,11 +9,11 @@ permalink: /recursos
 # Recursos
 
 ## Diapositivas
- - [Unidad 1](contenidos/diapositivas/Unidad 1.rar)
- - [Unidad 2](contenidos/diapositivas/Unidad 2.rar)
- - [Unidad 3](contenidos/diapositivas/Unidad 3.rar)
- - [Unidad 4](contenidos/diapositivas/Unidad 4.rar)
- - [Unidad 5](contenidos/diapositivas/Unidad 5.rar)
+ - [Unidad 1](contenidos/diapositivas/Unidad1.rar)
+ - [Unidad 2](contenidos/diapositivas/Unidad2.rar)
+ - [Unidad 3](contenidos/diapositivas/Unidad3.rar)
+ - [Unidad 4](contenidos/diapositivas/Unidad4.rar)
+ - [Unidad 5](contenidos/diapositivas/Unidad5.rar)
  
 ## Cheatsheets
 
