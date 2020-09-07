@@ -91,19 +91,21 @@ permalink: /contenidos
     
   - [Express]()
   
-- [ ] [**Base de datos relacional**](/)
+- [X] [**Base de datos relacional**](/)
   
   - [Migraciones con Sequelize en Express](https://gist.github.com/vapurrmaid/a111bf3fc0224751cb2f76532aac2465)
   - [Nodejs Rest API con Sqlite3](https://www.youtube.com/watch?v=hVulRRdXWYI)
 
-- [ ] [**Base de datos no relacional**](/)
+- [X] [**Base de datos no relacional**](/)
   
   - [MongoDB](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
   - [Introducción](https://www.youtube.com/watch?v=lWMemPN9t6Q)
 
-- [ ] [**Mean stack**](https://medium.com/@jeremyvsjeremy/what-is-the-mean-stack-9d11ae2cd384)
+- [X] [**Mean stack**](https://medium.com/@jeremyvsjeremy/what-is-the-mean-stack-9d11ae2cd384)
   - [Parte 1](https://www.youtube.com/watch?v=khCIunNAEHI&t=142s) 
   - [Parte 2](https://www.youtube.com/watch?v=ccBtSAMFjto)
+  
+- [X] [**Localhost público**](https://blog.nearsoftjobs.com/haz-p%C3%BAblico-tu-localhost-con-ngrok-ebb3cff501a1)
 
 ### 6. Servicios web
 
