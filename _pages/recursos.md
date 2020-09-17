@@ -33,6 +33,13 @@ permalink: /recursos
 - [generatedata.com. (2020)](http://generatedata.com/). Retrieved 13 June 2020, from http://generatedata.com/
 - [DOM Standard](https://dom.spec.whatwg.org/) (2020). Retrieved 29 June 2020, from https://dom.spec.whatwg.org/
 
+## Módulos
+
+ - [Admin Bro](https://github.com/SoftwareBrothers/admin-bro) Interfaz de administración para Express
+ - [RestAngular](https://github.com/mgonto/restangular) Código mínimo para clientes de REST API
+ - [CanvaJS](https://canvasjs.com/) Herramienta para crear visualizaciones sencillas
+ - [JSONWebToken](https://www.npmjs.com/package/jsonwebtoken) Tokens de autenticación bajo JSON
+
 ## Libro gratuitos
 
 - [Programming Notes for Professionals books](https://goalkicker.com/). Free Programming Books; HTML5, CSS3, JavaScript, PHP, Python.... (2020). Goalkicker.com. Retrieved 13 May 2020, from https://goalkicker.com/
