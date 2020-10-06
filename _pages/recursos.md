@@ -28,7 +28,7 @@ permalink: /recursos
 - [Tutorial, T.](https://javascript.info/) (2020). The Modern JavaScript Tutorial. Javascript.info. Retrieved 25 May 2020, from https://javascript.info/
 - [Lorem Ipsum - All the facts - Lipsum generator.](https://es.lipsum.com/) (2020). Es.lipsum.com. Retrieved 27 May 2020, from https://es.lipsum.com/
 - [Why You Should Choose HTML5 article Over section — Smashing Magazine.](https://www.smashingmagazine.com/2020/01/html5-article-section/) (2020). Smashing Magazine. Retrieved 27 May 2020, from https://www.smashingmagazine.com/2020/01/html5-article-section/
-- [Glosario.](https://developer.mozilla.org/es/docs/Glossary) (2020). Documentación web de MDN. Retrieved 29 May 2020, from https://developer.mozilla.org/es/docs/Glossary
+- [Glosario](https://developer.mozilla.org/es/docs/Glossary) (2020). Documentación web de MDN. Retrieved 29 May 2020, from https://developer.mozilla.org/es/docs/Glossary
 - [Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel. (2020)](https://www.mockaroo.com/). Retrieved 13 June 2020, from https://www.mockaroo.com/
 - [generatedata.com. (2020)](http://generatedata.com/). Retrieved 13 June 2020, from http://generatedata.com/
 - [DOM Standard](https://dom.spec.whatwg.org/) (2020). Retrieved 29 June 2020, from https://dom.spec.whatwg.org/
