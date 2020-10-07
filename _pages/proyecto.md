@@ -21,7 +21,7 @@ Para esto, el proyecto está dividido en dos capas: presentación (frontend) y a
 - [X] [**Proyecto Final**](contenidos/documentos/Proyecto Final.docx)
 -->
 
-### Presentación Proyecto Parcial
+### PAO I 2020
 (Click derecho y *'Abrir imagen en una nueva pestaña'* para ver la imagen más grande.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.proyectos %}
