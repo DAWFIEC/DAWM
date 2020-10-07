@@ -2,7 +2,7 @@
 title: "DAWM - Solución"
 layout: piclay
 excerpt: "Solución"
-permalink: /solución
+permalink: /solucion
 ---
 
 # Proyecto
