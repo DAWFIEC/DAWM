@@ -17,7 +17,7 @@ Para esto, el proyecto está dividido en dos capas: presentación (frontend) y a
 <!--- [X] [**Planificación**](contenidos/documentos/Planificación.docx)
 - [X] [**Proyecto Parcial**](contenidos/documentos/Proyecto Parcial.docx)
 - [X] [**Retroalimentación**](contenidos/documentos/Retroalimentación.docx)
-- [X] [**Proyecto Final**](contenidos/documentos/Proyecto Final.docx)-->
+- [X] [**Proyecto Final**](contenidos/documentos/Proyecto Final.docx) --->
 
 ### Presentación Proyecto Parcial
 (Click derecho y *'Abrir imagen en una nueva pestaña'* para ver la imagen más grande.)
