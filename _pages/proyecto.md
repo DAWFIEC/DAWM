@@ -2,7 +2,7 @@
 title: "DAWM - Proyectos"
 layout: piclay
 excerpt: "Proyectos"
-permalink: /proyectos
+permalink: /proyecto
 ---
 
 # Proyecto
