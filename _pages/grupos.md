@@ -1,11 +1,11 @@
 ---
 title: "DAWM - Fotos"
 layout: piclay
-excerpt: "Fotos"
-permalink: /fotos
+excerpt: "Grupos"
+permalink: /grupos
 ---
 
-## Fotos
+## Grupos
 (Click derecho y *'Abrir imagen en una nueva pestaña'* para ver la imagen más grande.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.fotos %}
