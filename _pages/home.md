@@ -14,7 +14,7 @@ Este curso provee a los estudiantes del conocimiento y de la experiencia prácti
 
 * [Sitio Web](https://dawfiec.github.io/DAWM/)
 * [Repositorio](https://github.com/DAWFIEC/DAWM/)
-* [Diccionario de términos](https://espolec-my.sharepoint.com/:x:/g/personal/aavendan_espol_edu_ec/EfRGuJNBvv1GiaWKHqJS8BgB8cs4bZryR5ehtuAmiolUlw?e=V4enRM)
+* [Diccionario de términos](https://espolec-my.sharepoint.com/:x:/g/personal/aavendan_espol_edu_ec/ESI91alajMhKijs_PrYlIhABzDglcnM6KgPsblpQsfRqdg?e=5De5Wm)
 * Ideas
   - [The Global Hack](https://theglobalhack.devpost.com/submissions/search?utf8=%E2%9C%93)
   
