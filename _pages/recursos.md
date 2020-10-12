@@ -21,6 +21,7 @@ permalink: /recursos
 - [HTML5](contenidos/cheatsheets/HTML5-cheat-sheet.pdf)
 - [CSS3](contenidos/cheatsheets/css3-cheat-sheet.pdf)
 - [JavaScript](contenidos/cheatsheets/javascript_cheat_sheet.pdf)
+- [NodeJS](https://cheatography.com/raffi001/cheat-sheets/nodejs/)
 
 ## Sitios web
 
