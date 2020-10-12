@@ -14,6 +14,7 @@ permalink: /recursos
  - [Unidad 3](contenidos/diapositivas/Unidad3.rar)
  - [Unidad 4](contenidos/diapositivas/Unidad4.rar)
  - [Unidad 5](contenidos/diapositivas/Unidad5.rar)
+ - [Unidad 6](contenidos/diapositivas/Unidad6.rar)
  
 ## Cheatsheets
 

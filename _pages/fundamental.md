@@ -10,8 +10,9 @@ permalink: /fundamental
 
 ## Diccionario
 
-* [Diccionario de términos](https://espolec-my.sharepoint.com/:x:/g/personal/aavendan_espol_edu_ec/EfRGuJNBvv1GiaWKHqJS8BgB8cs4bZryR5ehtuAmiolUlw?e=V4enRM)
-* [Glosario de MDN](https://developer.mozilla.org/es/docs/Glossary)
+* [Diccionario de términos](https://espolec-my.sharepoint.com/:x:/g/personal/aavendan_espol_edu_ec/ESI91alajMhKijs_PrYlIhABzDglcnM6KgPsblpQsfRqdg?e=5De5Wm)
+* [Glosario de Mozilla Developer Network](https://developer.mozilla.org/es/docs/Glossary)
+* [Glosario de Microsoft Developer Network](https://docs.microsoft.com/en-us/security-updates/glossary/glossary)
 
 
 ## Conocimientos Generales
