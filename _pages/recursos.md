@@ -18,7 +18,7 @@ permalink: /recursos
  
 ## Cheatsheets
 
-- [HTML5](contenidos/cheatsheets/HTML5-cheat-sheet.pdf)
+- [HTML5](contenidos/cheatsheets/HTML5-cheat-sheet.pdf) y [Interactive HTML5](https://htmlcheatsheet.com/)
 - [CSS3](contenidos/cheatsheets/css3-cheat-sheet.pdf)
 - [JavaScript](contenidos/cheatsheets/javascript_cheat_sheet.pdf)
 - [NodeJS](https://cheatography.com/raffi001/cheat-sheets/nodejs/)
