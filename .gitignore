@@ -3,4 +3,4 @@ contenidos/examen/*
 _site
 .sass-cache
 .jekyll-metadata
-node_modules/*
+*/node_modules/*
