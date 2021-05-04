@@ -1,0 +1,28 @@
+Nombre,Tipo,Fecha,Acciones,Tipo de Accion
+Juanito,profesor,21/03/2010,index,200
+Pepito,profesor,25/04/1998,"index, list",200
+Andrea,estudiante,10/10/2002,index,201
+Carla,profesor,21/03/2010,"index, list",203
+Juanito,profesor,21/03/2019,index,200
+Pepito,profesor,10/10/2002,index,200
+Andrea,estudiante,21/03/2010,error,404
+Andrea,estudiante,10/10/2020,error,500
+Juanito,profesor,10/10/2002,index,
+Juanito,profesor,21/03/2010,index,200
+Pepito,profesor,25/04/1998,"index, list",200
+Andrea,estudiante,10/10/2002,index,201
+Carla,profesor,21/03/2010,"index, list",203
+Juanito,profesor,21/03/2019,index,200
+Pepito,profesor,10/10/2002,index,200
+Andrea,estudiante,21/03/2010,error,303
+Andrea,estudiante,10/10/2020,error,404
+Juanito,profesor,10/10/2002,index,
+Juanito,profesor,21/03/2010,index,200
+Pepito,profesor,25/04/1998,"index, list",200
+Andrea,estudiante,10/10/2002,index,201
+Carla,profesor,21/03/2010,"index, list",203
+Juanito,profesor,21/03/2019,index,200
+Pepito,profesor,10/10/2002,index,200
+Andrea,estudiante,21/03/2010,error,400
+Andrea,estudiante,10/10/2020,error,501
+Juanito,profesor,10/10/2002,index,

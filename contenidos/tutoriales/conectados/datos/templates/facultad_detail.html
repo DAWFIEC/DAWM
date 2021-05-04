@@ -1,0 +1,12 @@
+<h1>{{ facultad.nombre }}</h1>
+<ul>
+{% for profesor in facultad.profesor_set.all %}
+    <li>Profesor: {{ profesor.nombre }}</li>
+{% endfor %}
+</ul>
+
+<ul>
+{% for estudiante in facultad.estudiante_set.all %}
+    <li>Estudiante: {{ estudiante.nombre }}</li>
+{% endfor %}
+</ul>

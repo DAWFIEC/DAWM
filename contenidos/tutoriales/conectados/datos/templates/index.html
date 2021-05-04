@@ -1,0 +1,10 @@
+<h1>Facultades</h1>
+{% if facultades %}
+    <ul>
+    {% for facultad in facultades %}
+        <li><a href="facultad/{{ facultad.id }}/">{{ facultad.nombre }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No hay facultades.</p>
+{% endif %}
