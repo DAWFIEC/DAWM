@@ -35,7 +35,7 @@ permalink: /unidades
   - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) En esta página encontrarás una lista de etiquetas. Para mayor información, revisa los [Cheat Sheets](/fundamental) de `HTML`.
     - ¿Cuáles son las etiquetas incorporadas por `HTML5`?
    - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html) 
-     - ¿Cuáles son los elementos que `componen` una página HTML y cómo se `visualizan` en el navegador?
+     - ¿Cuáles son los `elementos globales` componen una página HTML y cómo se `visualizan` en el navegador?
      - ¿Cuál es el uso de la etiqueta `meta`? 
      - ¿Qué tipo de valores contienen los atributos `name` y `content` en etiqueta `meta`?
      - ¿Cómo se visualiza la etiqueta `title`? 
