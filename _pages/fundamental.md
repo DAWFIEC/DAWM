@@ -10,7 +10,7 @@ permalink: /fundamental
 
 ## Diccionario
 
-* [Diccionario de términos](https://espolec-my.sharepoint.com/:x:/g/personal/aavendan_espol_edu_ec/ESI91alajMhKijs_PrYlIhABzDglcnM6KgPsblpQsfRqdg?e=5De5Wm)
+* [Diccionario de términos]()
 * [Glosario de Mozilla Developer Network](https://developer.mozilla.org/es/docs/Glossary)
 * [Glosario de Microsoft Developer Network](https://docs.microsoft.com/en-us/security-updates/glossary/glossary)
 
