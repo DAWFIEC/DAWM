@@ -45,7 +45,7 @@ permalink: /unidades
   - [<head>](https://developer.mozilla.org/es/docs/Web/HTML). La cabecera de un documento HTML es la parte que no se muestra en el navegador cuando se carga la página, aquí encontrarás la descripción y utilidad de cada una de las etiquetas.  Además, en [esta publicación](https://support.google.com/webmasters/answer/79812?hl=es) se describen las etiquetas, en la cabecera, y metaetiquetas a nivel de página, como directivas, insertadas para controlar cómo aparecerán las páginas de tu sitio web en la Búsqueda.
     - ¿Cuáles son los valores de la etiqueta meta que `Google entiende` y cuál es el uso?
   - [<body>](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals). En esta publicación explica la estructura y composición del cuerpo de un documento HTML, la necesidad de una estructura semántica y el uso de las etiquetas HTML.
-    - ¿Por qué es necesario conservar una estructura de un página HTML?
+    - ¿Por qué es necesario conservar una `estructura` de un página HTML?
     - ¿Qué es una `estructura semántica` y por qué es necesaria aplicarla en una página HTML?
     - ¿Cuáles son las etiquetas para marcar `énfasis` e `importancia` en una página HTML?
   - [Elementos HTML](https://html.spec.whatwg.org/multipage/). En este sitio encontrarás la lista de etiquetas HTML con su descripción, uso y etiquetas anidadas. El [MDN - HTML](https://developer.mozilla.org/es/docs/Web/HTML/Elemento) es otro sitio de referencia del uso de etiquetas HTML.
