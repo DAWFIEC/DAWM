@@ -11,17 +11,22 @@ permalink: /unidades
 
 - [x] [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML)
 
-  - [Conceptos básicos](https://developer.mozilla.org/es/docs/Web/HTML) 
+  - [Conceptos básicos](https://developer.mozilla.org/es/docs/Web/HTML) Conceptos básicos del estándar HTML.
     - ¿Qué significan las siglas de `HTML`?
     - ¿Qué significa `Hipertexto`?
     - ¿Cuál es la diferencia entre `Internet` y `World Wide Web`?
-  - [W3C: Estándar HTML](https://www.w3.org/TR/html52/) 
+  - [W3C: Estándar HTML](https://www.w3.org/TR/html52/) W3C y estándares de la web.
     - ¿Qué es la `W3C`? 
     - ¿Qué es un `estándar`? 
-    - ¿Cuáles son las características estándar HTML?
-  - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) ¿Cuáles son las etiquetas que componen el estándar HTML?
-  - [Estructura de las etiquetas (anatomía, anidamiento y etiquetas básicas)](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics). Aquí se revisan conceptos como el significado de `lenguaje de marcado`, anatomía de un elemento HTML, atributos, anidación, elementos vacíos, anatomía general de un documento HTML y etiquetas (imágenes, encabezados, párrafos, listas y vínculos).
-  - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html) ¿Cuáles son los elementos que componen una página HTML y cómo se visualizan en el navegador?
+    - ¿Cuál es la diferencia entre `HTML` y `XML`?
+  - [Estructura de las etiquetas (anatomía, anidamiento y etiquetas básicas)](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics). Aquí se revisan los conceptos como el significado de lenguaje de marcado, anatomía de un elemento HTML, atributos, anidación, elementos vacíos, anatomía general de un documento HTML y etiquetas (imágenes, encabezados, párrafos, listas y vínculos).
+    - ¿Por qué HTML `no es un lenguaje de programación`?
+    - ¿Qué tipo de contenido tiene una etiqueta?
+    - ¿Cuáles son las etiquetas vacías?
+
+
+  - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) 
+   - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html) ¿Cuáles son los elementos que componen una página HTML y cómo se visualizan en el navegador?
   - [Cabecera](https://developer.mozilla.org/es/docs/Web/HTML). La cabecera de un documento HTML es la parte que no se muestra en el navegador cuando se carga la página, aquí encontrarás la descripción y utilidad de cada una de las etiquetas.  Además, en [esta publicación](https://support.google.com/webmasters/answer/79812?hl=es) se describen las etiquetas, en la cabecera, y metaetiquetas a nivel de página, como directivas, insertadas para controlar cómo aparecerán las páginas de tu sitio web en la Búsqueda.
   - [Cuerpo](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals). En esta publicación explica la estructura y composición del cuerpo de un documento HTML, la necesidad de una estructura semántica y el uso de las etiquetas HTML.
   - [Elementos HTML](https://html.spec.whatwg.org/multipage/). En este sitio encontrarás la lista de etiquetas HTML con su descripción, uso y etiquetas anidadas. El [MDN - HTML](https://developer.mozilla.org/es/docs/Web/HTML/Elemento) es otro sitio de referencia del uso de etiquetas HTML.
