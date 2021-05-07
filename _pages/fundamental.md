@@ -99,7 +99,7 @@ permalink: /fundamental
  - [CanvaJS](https://canvasjs.com/) Herramienta para crear visualizaciones sencillas
  - [JSONWebToken](https://www.npmjs.com/package/jsonwebtoken) Tokens de autenticación bajo JSON
  
- ## Colores
+## Colores
   - [Create a palette - Coolors.](https://coolors.co/37123c-71677c-a99f96-dda77b-945d5e) (2020). Coolors.co. Retrieved 16 May 2020, from https://coolors.co/37123c-71677c-a99f96-dda77b-945d5e
  
 ## Íconos
