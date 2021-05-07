@@ -3,7 +3,7 @@ title: "DAWM - Contenidos"
 layout: textlay
 excerpt: "Contenidos"
 sitemap: false
-permalink: /contenidos
+permalink: /unidades
 ---
 
 ## Unidades
