@@ -11,7 +11,8 @@ permalink: /contenidos
 
 - [x] [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML)
 
-  - [Definición de siglas](https://developer.mozilla.org/es/docs/Web/HTML) ¿Qué significa HTML?
+  - [Conceptos básicos](https://developer.mozilla.org/es/docs/Web/HTML) 
+    - ¿Qué significan las siglas de `HTML`?
   - [W3C: Estándar HTML](https://www.w3.org/TR/html52/) ¿Qué es la W3C? ¿Qué es un estándar? ¿Cuáles son las características estándar HTML?
   - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) ¿Cuáles son las etiquetas que componen el estándar HTML?
   - [Estructura de las etiquetas (anatomía, anidamiento y etiquetas básicas)](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics). Aquí se revisan conceptos como el significado de `lenguaje de marcado`, anatomía de un elemento HTML, atributos, anidación, elementos vacíos, anatomía general de un documento HTML y etiquetas (imágenes, encabezados, párrafos, listas y vínculos).
