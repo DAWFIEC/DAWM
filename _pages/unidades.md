@@ -13,7 +13,12 @@ permalink: /unidades
 
   - [Conceptos básicos](https://developer.mozilla.org/es/docs/Web/HTML) 
     - ¿Qué significan las siglas de `HTML`?
-  - [W3C: Estándar HTML](https://www.w3.org/TR/html52/) ¿Qué es la W3C? ¿Qué es un estándar? ¿Cuáles son las características estándar HTML?
+    - ¿Qué significa `Hipertexto`?
+    - ¿Cuál es la diferencia entre `Internet` y `World Wide Web`?
+  - [W3C: Estándar HTML](https://www.w3.org/TR/html52/) 
+    - ¿Qué es la `W3C`? 
+    - ¿Qué es un `estándar`? 
+    - ¿Cuáles son las características estándar HTML?
   - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) ¿Cuáles son las etiquetas que componen el estándar HTML?
   - [Estructura de las etiquetas (anatomía, anidamiento y etiquetas básicas)](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics). Aquí se revisan conceptos como el significado de `lenguaje de marcado`, anatomía de un elemento HTML, atributos, anidación, elementos vacíos, anatomía general de un documento HTML y etiquetas (imágenes, encabezados, párrafos, listas y vínculos).
   - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html) ¿Cuáles son los elementos que componen una página HTML y cómo se visualizan en el navegador?
@@ -65,6 +70,7 @@ permalink: /unidades
   - Web Frameworks
     - [Cliente](https://github.com/collections/front-end-javascript-frameworks). Esta lista contiene a los web frameworks del lado del cliente más reconocidos, entre ellos: Angular, Ember, VueJS y React. 
     - [Servidor](https://www.devsaran.com/blog/10-best-nodejs-frameworks-developers). En este sitio encontrarás los web frameworks de lado del servidor más utilizados, entre ellos: Express.js y Hapi.js
+  - **CORS**
   
 - [X] **Web framework del lado del cliente: Angular**. En el [sitio oficial](https://angular.io/) pueden encontrar la documentación completa.
 
