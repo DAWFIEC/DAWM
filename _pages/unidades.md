@@ -18,12 +18,18 @@ permalink: /unidades
   - [W3C: Estándar HTML](https://www.w3.org/TR/html52/) W3C y estándares de la web.
     - ¿Qué es la `W3C`? 
     - ¿Qué es un `estándar`? 
+    - ¿Por qué comprender y seguir el estándar de la W3C?
     - ¿Cuál es la diferencia entre `HTML` y `XML`?
   - [Estructura de las etiquetas (anatomía, anidamiento y etiquetas básicas)](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics). Aquí se revisan los conceptos como el significado de lenguaje de marcado, anatomía de un elemento HTML, atributos, anidación, elementos vacíos, anatomía general de un documento HTML y etiquetas (imágenes, encabezados, párrafos, listas y vínculos).
     - ¿Por qué HTML `no es un lenguaje de programación`?
-    - ¿Qué tipo de contenido tiene una etiqueta?
-    - ¿Cuáles son las etiquetas vacías?
-
+    - ¿Qué `tipo de contenido` tiene una etiqueta?
+    - ¿Qué significa `anidar` etiquetas?
+    - ¿Cuáles son las `etiquetas vacías`?
+    - ¿Para qué sirve la etiqueta `<!DOCTYPE html>`?
+    - ¿Para qué sirven las etiquetas de encabezado de `h1` hasta `h6`?
+    - ¿Cuál es la diferencia entre `ul` y `ol`? ¿Qué es un `li`?
+    - ¿Cuál es la etiqueta para referenciar otros documentos u otras secciones dentro de la misma página html? 
+    - ¿Cómo usar la etiqueta para referenciar otros documentos u otras secciones dentro de la misma página html?
 
   - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) 
    - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html) ¿Cuáles son los elementos que componen una página HTML y cómo se visualizan en el navegador?
