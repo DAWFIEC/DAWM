@@ -11,7 +11,7 @@ permalink: /unidades
 
 - [x] [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML)
 
-  - [Conceptos básicos](https://developer.mozilla.org/es/docs/Web/HTML) Conceptos básicos del estándar HTML.
+  - [Conceptos básicos](https://developer.mozilla.org/es/docs/Web/HTML). Conceptos básicos del estándar HTML.
     - ¿Qué significan las siglas de `HTML`?
     - ¿Qué significa `Hipertexto`?
     - ¿Cuál es la diferencia entre `Internet` y `World Wide Web`?
@@ -32,9 +32,9 @@ permalink: /unidades
     - ¿Cuál es la etiqueta para referenciar otros documentos u otras secciones dentro de la misma página html? 
     - ¿Cómo usar la etiqueta para referenciar otros documentos u otras secciones dentro de la misma página html?
 
-  - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) En esta página encontrarás una lista de etiquetas. Para mayor información, revisa los [Cheat Sheets](/fundamental) de `HTML`.
+  - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html). En esta página encontrarás una lista de etiquetas. Para mayor información, revisa los [Cheat Sheets](/fundamental) de `HTML`.
     - ¿Cuáles son las etiquetas incorporadas por `HTML5`?
-   - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html) Elementos globales, etiquetas visibles e invisibles para el navegador y etiquetas de optimización de las páginas web.
+   - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html). Elementos globales, etiquetas visibles e invisibles para el navegador y etiquetas de optimización de las páginas web.
      - ¿Cuáles son los `elementos globales` componen una página HTML y cómo se `visualizan` en el navegador?
      - ¿Cuál es el uso de la etiqueta `meta`? 
      - ¿Qué tipo de valores contienen los atributos `name` y `content` en etiqueta `meta`?
@@ -42,9 +42,9 @@ permalink: /unidades
      - ¿Cuál es el uso de la etiqueta `link`? 
      - ¿Qué tipo de archivos pueden incorporarse con la etiqueta `link`?
      - ¿Para qué sirven los atributos `rel` y `href` en la etiqueta `link`?
-   - [Cabecera <head>](https://developer.mozilla.org/es/docs/Web/HTML).  La cabecera de un documento HTML es la parte que no se muestra en el navegador cuando se carga la página, aquí encontrarás la descripción y utilidad de cada una de las etiquetas.  Además, en [esta publicación](https://support.google.com/webmasters/answer/79812?hl=es) se describen las etiquetas, en la cabecera, y metaetiquetas a nivel de página, como directivas, insertadas para controlar cómo aparecerán las páginas de tu sitio web en la Búsqueda.
+   - [Cabecera](https://developer.mozilla.org/es/docs/Web/HTML). La cabecera de un documento HTML es la parte que no se muestra en el navegador cuando se carga la página, aquí encontrarás la descripción y utilidad de cada una de las etiquetas.  Además, en [esta publicación](https://support.google.com/webmasters/answer/79812?hl=es) se describen las etiquetas, en la cabecera, y metaetiquetas a nivel de página, como directivas, insertadas para controlar cómo aparecerán las páginas de tu sitio web en la Búsqueda.
      - ¿Cuáles son los valores de la etiqueta meta que `Google entiende` y cuál es el uso?
-   - [Cuerpo <body>](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals). En esta publicación explica la estructura y composición del cuerpo de un documento HTML, la necesidad de una estructura semántica y el uso de las etiquetas HTML.
+   - [Cuerpo](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals). En esta publicación explica la estructura y composición del cuerpo de un documento HTML, la necesidad de una estructura semántica y el uso de las etiquetas HTML.
      - ¿Por qué es necesario conservar una `estructura` de un página HTML?
      - ¿Qué es una `estructura semántica` y por qué es necesaria aplicarla en una página HTML?
      - ¿Cuáles son las etiquetas para marcar `énfasis` e `importancia` en una página HTML?
