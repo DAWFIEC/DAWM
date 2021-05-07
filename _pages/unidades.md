@@ -25,13 +25,14 @@ permalink: /unidades
     - ¿Qué `tipo de contenido` tiene una etiqueta?
     - ¿Qué significa `anidar` etiquetas?
     - ¿Cuáles son las `etiquetas vacías`?
-    - ¿Para qué sirve la etiqueta `<!DOCTYPE html>`?
+    - ¿Para qué sirve la etiqueta `<!DOCTYPE html>`? ¿Qué otro tipo de `Declaración del tipo de documento` existen?
     - ¿Para qué sirven las etiquetas de encabezado de `h1` hasta `h6`?
     - ¿Cuál es la diferencia entre `ul` y `ol`? ¿Qué es un `li`?
     - ¿Cuál es la etiqueta para referenciar otros documentos u otras secciones dentro de la misma página html? 
     - ¿Cómo usar la etiqueta para referenciar otros documentos u otras secciones dentro de la misma página html?
 
-  - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) 
+  - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) En esta página encontrarás una lista de etiquetas. Para mayor información, revisa los [Cheat Sheets](/fundamental/cheatsheets) de `HTML`.
+    - ¿Cuáles son las etiquetas incorporadas por `HTML5`?
    - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html) ¿Cuáles son los elementos que componen una página HTML y cómo se visualizan en el navegador?
   - [Cabecera](https://developer.mozilla.org/es/docs/Web/HTML). La cabecera de un documento HTML es la parte que no se muestra en el navegador cuando se carga la página, aquí encontrarás la descripción y utilidad de cada una de las etiquetas.  Además, en [esta publicación](https://support.google.com/webmasters/answer/79812?hl=es) se describen las etiquetas, en la cabecera, y metaetiquetas a nivel de página, como directivas, insertadas para controlar cómo aparecerán las páginas de tu sitio web en la Búsqueda.
   - [Cuerpo](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals). En esta publicación explica la estructura y composición del cuerpo de un documento HTML, la necesidad de una estructura semántica y el uso de las etiquetas HTML.
