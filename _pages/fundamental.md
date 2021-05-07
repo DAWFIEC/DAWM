@@ -1,7 +1,7 @@
 ---
-title: "DAWM - Diccionario"
+title: "DAWM - Fundamental"
 layout: gridlay
-excerpt: "Diccionario"
+excerpt: "Fundamental"
 sitemap: false
 permalink: /fundamental
 ---
@@ -41,15 +41,15 @@ permalink: /fundamental
 
 ## Sitios web
 
-- [HTML Standard.](https://html.spec.whatwg.org/multipage/) (2020). Html.spec.whatwg.org. Retrieved 28 May 2020, from https://html.spec.whatwg.org/multipage/
-- [HTML Examples.](https://www.w3schools.com/html/html_examples.asp) (2020). W3schools.com. Retrieved 28 May 2020, from https://www.w3schools.com/html/html_examples.asp
-- [Tutorial, T.](https://javascript.info/) (2020). The Modern JavaScript Tutorial. Javascript.info. Retrieved 25 May 2020, from https://javascript.info/
-- [Lorem Ipsum - All the facts - Lipsum generator.](https://es.lipsum.com/) (2020). Es.lipsum.com. Retrieved 27 May 2020, from https://es.lipsum.com/
-- [Why You Should Choose HTML5 article Over section — Smashing Magazine.](https://www.smashingmagazine.com/2020/01/html5-article-section/) (2020). Smashing Magazine. Retrieved 27 May 2020, from https://www.smashingmagazine.com/2020/01/html5-article-section/
+- [HTML Standard.](https://html.spec.whatwg.org/multipage/) (2020). Html.spec.whatwg.org. Retrieved 28 May 2020, from [https://html.spec.whatwg.org/multipage/](https://html.spec.whatwg.org/multipage/)
+- [HTML Examples.](https://www.w3schools.com/html/html_examples.asp) (2020). W3schools.com. Retrieved 28 May 2020, from [https://www.w3schools.com/html/html_examples.asp](https://www.w3schools.com/html/html_examples.asp)
+- [Tutorial, T.](https://javascript.info/) (2020). The Modern JavaScript Tutorial. Javascript.info. Retrieved 25 May 2020, from [https://javascript.info/](https://javascript.info/)
+- [Lorem Ipsum - All the facts - Lipsum generator.](https://es.lipsum.com/) (2020). Es.lipsum.com. Retrieved 27 May 2020, from [https://es.lipsum.com/](https://es.lipsum.com/)
+- [Why You Should Choose HTML5 article Over section — Smashing Magazine.](https://www.smashingmagazine.com/2020/01/html5-article-section/) (2020). Smashing Magazine. Retrieved 27 May 2020, from [https://www.smashingmagazine.com/2020/01/html5-article-section/](https://www.smashingmagazine.com/2020/01/html5-article-section/)
 - [Glosario](https://developer.mozilla.org/es/docs/Glossary) (2020). Documentación web de MDN. Retrieved 29 May 2020, from https://developer.mozilla.org/es/docs/Glossary
-- [Mockaroo](https://www.mockaroo.com/). Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel. (2020). Retrieved 13 June 2020, from https://www.mockaroo.com/
-- [generatedata.com. (2020)](http://generatedata.com/). Retrieved 13 June 2020, from http://generatedata.com/
-- [DOM Standard](https://dom.spec.whatwg.org/) (2020). Retrieved 29 June 2020, from https://dom.spec.whatwg.org/
+- [Mockaroo](https://www.mockaroo.com/). Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel. (2020). Retrieved 13 June 2020, from [https://www.mockaroo.com/](https://www.mockaroo.com/)
+- [Generatedata.com.](http://generatedata.com/)(2020). Retrieved 13 June 2020, from [http://generatedata.com/](http://generatedata.com/)
+- [DOM Standard](https://dom.spec.whatwg.org/) (2020). Retrieved 29 June 2020, from [https://dom.spec.whatwg.org/](https://dom.spec.whatwg.org/)
 
 ## Módulos
 
@@ -67,8 +67,8 @@ permalink: /fundamental
   - [Material Icons.](https://material.io/resources/icons/?style=baseline) (2020). Material Design. Retrieved 13 May 2020, from https://material.io/resources/icons/?style=baseline
 
 ## Fuentes
-  - [20 Best Google Web Fonts.](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html) (2018). Awwwards.com. Retrieved 3 October 2018, from https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html
-  - [DaFont - Descargar fuentes.](https://www.dafont.com/es/) (2020). Dafont.com. Retrieved 16 May 2020, from https://www.dafont.com/es/
+  - [20 Best Google Web Fonts.](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html) (2018). Awwwards.com. Retrieved 3 October 2018, from [https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html)
+  - [DaFont - Descargar fuentes.](https://www.dafont.com/es/) (2020). Dafont.com. Retrieved 16 May 2020, from [https://www.dafont.com/es/](https://www.dafont.com/es/)
 
 ## Videos
 
