@@ -33,7 +33,7 @@ permalink: /unidades
     - ¿Cómo usar la etiqueta para referenciar otros documentos u otras secciones dentro de la misma página html?
 
   - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html). En esta página encontrarás una lista de etiquetas. Para mayor información, revisa los [Cheat Sheets](/fundamental) de `HTML`.
-    - ¿Cuáles son las etiquetas incorporadas por `HTML5`?
+    - ¿Cuáles son las `etiquetas incorporadas` por HTML5?
    - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html). Elementos globales, etiquetas visibles e invisibles para el navegador y etiquetas de optimización de las páginas web.
      - ¿Cuáles son los `elementos globales` componen una página HTML y cómo se `visualizan` en el navegador?
      - ¿Cuál es el uso de la etiqueta `meta`? 
