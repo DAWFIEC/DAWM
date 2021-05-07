@@ -31,7 +31,7 @@ permalink: /unidades
     - ¿Cuál es la etiqueta para referenciar otros documentos u otras secciones dentro de la misma página html? 
     - ¿Cómo usar la etiqueta para referenciar otros documentos u otras secciones dentro de la misma página html?
 
-  - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) En esta página encontrarás una lista de etiquetas. Para mayor información, revisa los [Cheat Sheets](/fundamental/cheatsheets) de `HTML`.
+  - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) En esta página encontrarás una lista de etiquetas. Para mayor información, revisa los [Cheat Sheets](/fundamental) de `HTML`.
     - ¿Cuáles son las etiquetas incorporadas por `HTML5`?
    - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html) ¿Cuáles son los elementos que componen una página HTML y cómo se visualizan en el navegador?
   - [Cabecera](https://developer.mozilla.org/es/docs/Web/HTML). La cabecera de un documento HTML es la parte que no se muestra en el navegador cuando se carga la página, aquí encontrarás la descripción y utilidad de cada una de las etiquetas.  Además, en [esta publicación](https://support.google.com/webmasters/answer/79812?hl=es) se describen las etiquetas, en la cabecera, y metaetiquetas a nivel de página, como directivas, insertadas para controlar cómo aparecerán las páginas de tu sitio web en la Búsqueda.
