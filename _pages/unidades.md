@@ -34,7 +34,7 @@ permalink: /unidades
 
   - [Lista de etiquetas HTML](https://acercadehtml.com/etiquetas-html.html) En esta página encontrarás una lista de etiquetas. Para mayor información, revisa los [Cheat Sheets](/fundamental) de `HTML`.
     - ¿Cuáles son las etiquetas incorporadas por `HTML5`?
-   - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html) 
+   - [Esctructura de global de una página HTML](http://www.edu4java.com/es/web/html5-estructura-global.html) Elementos globales, etiquetas visibles e invisibles para el navegador y etiquetas de optimización de las páginas web.
      - ¿Cuáles son los `elementos globales` componen una página HTML y cómo se `visualizan` en el navegador?
      - ¿Cuál es el uso de la etiqueta `meta`? 
      - ¿Qué tipo de valores contienen los atributos `name` y `content` en etiqueta `meta`?
@@ -43,6 +43,7 @@ permalink: /unidades
      - ¿Qué tipo de archivos pueden incorporarse con la etiqueta `link`?
      - ¿Para qué sirven los atributos `rel` y `href` en la etiqueta `link`?
   - [Cabecera](https://developer.mozilla.org/es/docs/Web/HTML). La cabecera de un documento HTML es la parte que no se muestra en el navegador cuando se carga la página, aquí encontrarás la descripción y utilidad de cada una de las etiquetas.  Además, en [esta publicación](https://support.google.com/webmasters/answer/79812?hl=es) se describen las etiquetas, en la cabecera, y metaetiquetas a nivel de página, como directivas, insertadas para controlar cómo aparecerán las páginas de tu sitio web en la Búsqueda.
+    -  ¿Cuáles son los valores de la etiqueta meta que Google entiende y cuál es el uso?
   - [Cuerpo](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals). En esta publicación explica la estructura y composición del cuerpo de un documento HTML, la necesidad de una estructura semántica y el uso de las etiquetas HTML.
   - [Elementos HTML](https://html.spec.whatwg.org/multipage/). En este sitio encontrarás la lista de etiquetas HTML con su descripción, uso y etiquetas anidadas. El [MDN - HTML](https://developer.mozilla.org/es/docs/Web/HTML/Elemento) es otro sitio de referencia del uso de etiquetas HTML.
   - [Entidades](https://dev.w3.org/html5/html-author/charref). Ciertos caracteres especiales son reservados para no ser parseados como etiquetas HTML.
