@@ -49,9 +49,8 @@ permalink: /fundamental
 
 # Fundamental
 
-## Diccionario
+## Glosarios
 
-* [Diccionario de términos]()
 * [Glosario de Mozilla Developer Network](https://developer.mozilla.org/es/docs/Glossary)
 * [Glosario de Microsoft Developer Network](https://docs.microsoft.com/en-us/security-updates/glossary/glossary)
 
