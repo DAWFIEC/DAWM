@@ -50,7 +50,9 @@ permalink: /unidades
      - ¿Cuáles son las etiquetas para marcar `énfasis` e `importancia` en una página HTML?
   - [Elementos HTML](https://html.spec.whatwg.org/multipage/). En este sitio encontrarás la lista de etiquetas HTML con su descripción, uso y etiquetas anidadas. El [MDN - HTML](https://developer.mozilla.org/es/docs/Web/HTML/Elemento) es otro sitio de referencia del uso de etiquetas HTML.
     - Etiquetadas anidadas permitidas
-    - Atributos permitidos 
+    - Atributos permitidos  
+    - https://html.spec.whatwg.org/multipage/sections.html#the-article-element
+    - https://developer.mozilla.org/es/docs/Web/HTML/Element/article
   - [Entidades](https://dev.w3.org/html5/html-author/charref). Ciertos caracteres especiales son reservados para no ser parseados como etiquetas HTML.
   - [Formularios](https://www.html5rocks.com/es/tutorials/forms/html5forms/). Aquí puedes tener una referencia de cómo crear un formulario con HTML5. Mientras que en este [sitio](https://www.webfx.com/blog/web-design/new-html5-form-input-types/) puedes encontrar las referencias a los nuevos tipos de elementos dentro de un formulario en HTML5. 
   - [Mapas](https://mappinggis.com/2012/05/como-insertar-un-mapa-de-google-maps-en-tu-web/). Este sitio tiene las instrucciones para incrustar mapas de Google, sin requerir las credenciales de desarrollador. 
