@@ -11,9 +11,12 @@ El proyecto se utiliza como experiencia práctica para diseñar e implementar ap
 
 Para esto, el proyecto está dividido en dos capas: presentación (frontend) y acceso de datos (backend). En la capa de presentación se utilizan las tecnologías HTML, CSS y JS; además, se utiliza un marco de trabajo (framework) del lado del cliente y requerimientos web asincrónicos entre el cliente y el servidor. En la capa de acceso de datos se utiliza un framework del lado del servidor para atender los requerimientos del cliente mediante REST API, acceso a base de datos relacionales y no relacionales, seguridad web básica y el proceso de despliegue de la aplicación.
 
-## Proyecto Parcial
+## Pasos
 
-- [X] **Creación de los grupos**
+- [ ] **Creación de los grupos**
+- [ ] **Definición del tema**
+- [ ] **Resumen ejecutivo**
+- [ ] **Maquetación**
 <!-- [X] [**Proyecto Parcial**](contenidos/documentos/Proyecto Parcial.docx) -->
 <!-- [X] [**Retroalimentación**](contenidos/documentos/Retroalimentación.docx) -->
 <!-- [X] [**Proyecto Final**](contenidos/documentos/Proyecto Final.docx) -->
